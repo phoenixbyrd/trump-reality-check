@@ -33,6 +33,8 @@ Each story must clear ALL of these:
 
 **Never pad with filler to hit 100** — publish only what clears the bar and report the honest count in `edition.json` `description`.
 
+**Selection target: roughly 50/50.** About half the edition should be claims that hold up (`accurate`/`mostly-accurate` — what to believe) and about half should be claims that don't (`misleading`/`false` — what not to believe), with a healthy share of the latter being *demonstrably false* claims where `rating_explained` shows exactly why they're false. This is a selection priority, not a verdict quota: actively hunt for strong examples of both kinds — true stories that deserve belief AND false stories that deserve debunking. Never force or soften a verdict to hit the ratio; if a day's checkable claims skew one way, publish what the evidence supports and report the actual split honestly.
+
 Each story needs: exact `headline`, `outlet` name, `article_url` (opened and verified), `published` date, `trending_claim` (the central assertion as it circulates, 1–2 sentences), `trending_context` (1 sentence on why it's trending).
 
 ### 2. Fact-check
