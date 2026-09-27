@@ -1,0 +1,398 @@
+[
+ {
+  "id": "T01",
+  "headline": "Trump Says No To Iran Deal To Reopen Strait Of Hormuz",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/trump-claims-hes-rejecting-iranian",
+  "published": "2026-09-27",
+  "trending_claim": "President Trump rejected an Iranian proposal to reopen the Strait of Hormuz within seven days, calling the offer unacceptable.",
+  "verdict": "accurate",
+  "rating_explained": "“”Crooks and Liars' central assertion is that Trump rejected an Iranian proposal to reopen the Strait of Hormuz and resume negotiations. This is directly confirmed by Trump's own public statements on September 26, 2026: USA Today reported Trump told reporters outside the White House, “They want to make a deal, and that's fine, I like making a deal too, but that deal would not be acceptable,” and WAMC/NPR reported Trump saying “I'm rejecting their deal.” The proposal -- a concrete seven-day plan conveyed by Iranian Foreign Minister Abbas Araghchi through Qatari mediators, offering to reopen the strait and restart U.S.-Iran talks -- was confirmed by the Wall Street Journal, which also confirmed the rejection. Araghchi himself acknowledged the rejection while calling Trump's statements contradictory. One caveat: Trump's quantitative boasts bundled into the same remarks -- “29 ships” exiting the strait the previous night, “total control” of the waterway, “massive amounts of oil” moving through it -- are his own unverified claims, quoted as such by the article rather than asserted as fact by it; independent reporting notes the strait has been effectively shut since February and the transit count was not independently verified. The article accurately relays what Trump said and did, so the verdict is accurate.“”",
+  "sources": [
+   {
+    "name": "USA Today",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/26/trump-ceasefire-iran-strait-of-hormuz/91956448007/"
+   },
+   {
+    "name": "WAMC/NPR",
+    "url": "https://www.wamc.org/2026-09-26/trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable"
+   }
+  ],
+  "trending_context": "Led Crooks and Liars' front page Sep 26-27 as the left highlighted the contrast between Trump's UN annihilation threats and his Hormuz deal rejection.",
+  "order": 1
+ },
+ {
+  "id": "T02",
+  "headline": "Jake Tapper: Trump's Outside Advisers Pushing For Martial Law Takeover Of Midterms",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/jake-tapper-trump-outside-advisors-pushing",
+  "published": "2026-09-26",
+  "trending_claim": "The Atlantic reported that outside advisers to President Trump, including attorney Peter Ticktin, are urging him to seize federal control of the 2026 midterms, with Ticktin floating the possibility of declaring martial law around Election Day.",
+  "verdict": "mostly-accurate",
+  "rating_explained": "“”The article's central claim is that Jake Tapper, citing a new Atlantic report, said outside Trump advisers are urging the president to seize control of the November midterms, possibly via martial law or a national emergency. This is confirmed: Tapper's segment quoted the Atlantic's reporting that a group of outside advisers is urging Trump to take control of federal elections this November, encouraging him to “perhaps declare martial law or declare a national emergency on or around Election Day.” The Election Law Blog's detailed account of the Atlantic piece confirms attorney Peter Ticktin told the magazine Trump's choices were “Either martial law, or step aside,” and names Ticktin, Wayne Allyn Root, and Tina Peters as the figures involved. Reuters (May 15, 2026) confirms Gov. Jared Polis commuted Peters' nine-year sentence to time served, with parole effective June 1 -- matching the article's commutation claim. Two caveats keep this from a full accurate: the article consistently misspells Ticktin as “Tickton,” and its framing implies these figures are positioned to influence actual Trump election policy, while the Atlantic itself quoted a White House official saying Ticktin, Root, and Peters “have no role in White House election policy,” with DOJ denying any such initiative. The underlying rhetoric is real and accurately quoted; the influence implied is not established. What remains unknown is whether Trump will act on any of this advice. Hence mostly-accurate.“”",
+  "sources": [
+   {
+    "name": "Election Law Blog (quoting The Atlantic)",
+    "url": "https://electionlawblog.org/2026/the-supporters-urging-trump-to-declare-martial-law-for-the-midterms/"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/colorado-governor-grants-clemency-former-county-elections-clerk-tina-peters-2026-05-15/"
+   }
+  ],
+  "trending_context": "Circulated on the left as evidence of election-subversion scheming in Trump's orbit ahead of the midterms.",
+  "order": 2
+ },
+ {
+  "id": "T03",
+  "headline": "Saturday Updates: Trump Rejects Peace, Rolls Out the Red Carpet for Xi, and Blames Biden for Everything – 9/26/26",
+  "outlet": "MeidasPlus",
+  "article_url": "https://www.meidasplus.com/p/saturday-updates-trump-rejects-peace",
+  "published": "2026-09-26",
+  "trending_claim": "Trump rejected Iran's seven-day ceasefire proposal and privately told aides he expects to resume bombing Iran after the midterm elections, per the Wall Street Journal.",
+  "verdict": "accurate",
+  "rating_explained": "“”MeidasPlus asserts Trump rejected Iran's seven-day ceasefire offer and privately told aides he expects to resume bombing after the midterms, citing the Wall Street Journal. Both halves are corroborated. The public rejection is on the record: on Sept. 26 Trump told reporters, “They want to make a deal... but that deal would not be acceptable,” and USA Today and NPR reported the rejection of Iran's proposal (seven-day pause, Hormuz reopening, resumed nuclear talks in exchange for lifting the U.S. blockade of Iranian ports). The private expectation of renewed bombing comes from the WSJ's Sept. 25 reporting, summarized by the New York Post: Trump is “skeptical” Iran will meet his demands and “told aides it is 'likely' the US military restarts airstrikes after the November contests,” citing U.S. officials. MeidasPlus attributes both elements properly (“reportedly,” “per WSJ”). The verdict is accurate because the piece faithfully relays confirmed public statements and named WSJ reporting without overstating them. Caveats: the bombing expectation rests on anonymous officials, and Trump has made contradictory public claims, so his actual intentions remain disputed and unknown.“”",
+  "sources": [
+   {
+    "name": "USA Today",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/26/trump-ceasefire-iran-strait-of-hormuz/91956448007/"
+   },
+   {
+    "name": "New York Post (summarizing WSJ)",
+    "url": "https://nypost.com/2026/09/25/us-news/trump-rejects-irans-seven-day-cease-fire-proposal-expects-airstrikes-to-resume-after-midterm-elections-report/"
+   }
+  ],
+  "trending_context": "MeidasPlus Saturday roundup lead; the WSJ's post-midterms bombing report drove left-leaning coverage all weekend.",
+  "order": 3
+ },
+ {
+  "id": "T04",
+  "headline": "NEWS: Trump Stews Over Press, Kimberly Guilfoyle Threatens Regime Change, AI Meddles With US Government, Big Supreme Court Ruling",
+  "outlet": "Aaron Parnas (Substack)",
+  "article_url": "https://aaronparnas.substack.com/p/news-trump-stews-over-press-kimberly",
+  "published": "2026-09-26",
+  "trending_claim": "U.S. Ambassador to Greece Kimberly Guilfoyle told Greek officials at a March 2026 Athens dinner that the U.S. can overthrow any government it wants — “We can do that to any country we want. We can do that here” — per the Wall Street Journal.",
+  "verdict": "accurate",
+  "rating_explained": "“”Parnas reports that Guilfoyle “allegedly” made the remark, attributing the account to the Wall Street Journal. The WSJ's own article confirms: “In March, at a dinner in Athens attended by Greek and U.S. officials, Guilfoyle got into an argument with Greece's energy minister, Stavros Papastavrou... Referring to the impending collapse of the Romanian government, Guilfoyle told the group, 'We can do that to any country we want. We can do that here,' according to a person who attended the dinner and others who were told about it. The conversation became heated, with Papastavrou retorting that the U.S. couldn't replace the government of Greece, which was elected by the people.” The WSJ also notes “Guilfoyle's lawyer disputed the characterization of the exchange.” Parnas's item mirrors this precisely, including the “allegedly” qualifier, the Papastavrou pushback, and the absence of a detailed on-the-record response. A second source independently relays the same WSJ account. Because the claim is carefully attributed to named WSJ reporting with sourcing caveats preserved, it is accurate. What remains disputed: the exact characterization of the exchange, which Guilfoyle's lawyer disputes; whether the remark reflected U.S. policy or a personal boast is unknown.“”",
+  "sources": [
+   {
+    "name": "Wall Street Journal",
+    "url": "https://www.wsj.com/articles/kimberly-guilfoyle-mystery-man-energy-5adeb541"
+   },
+   {
+    "name": "Bytes Europe",
+    "url": "https://www.byteseu.com/2399646/"
+   }
+  ],
+  "trending_context": "Parnas newsletter item; the WSJ's Guilfoyle dinner account spread across anti-Trump feeds Sep 26.",
+  "order": 4
+ },
+ {
+  "id": "T05",
+  "headline": "NEWS: Trump Stews Over Press, Kimberly Guilfoyle Threatens Regime Change, AI Meddles With US Government, Big Supreme Court Ruling",
+  "outlet": "Aaron Parnas (Substack)",
+  "article_url": "https://aaronparnas.substack.com/p/news-trump-stews-over-press-kimberly",
+  "published": "2026-09-26",
+  "trending_claim": "The U.S. Supreme Court blocked Missouri Republicans' redrawn 2025 congressional map for a third time, keeping the 2022 map (six Republican seats, two Democratic) in place for the midterms.",
+  "verdict": "accurate",
+  "rating_explained": "“”Parnas states the Supreme Court blocked Missouri's GOP map a third time, preserving Rep. Emanuel Cleaver's district and the 2022 map for the midterms. Reuters reported on Sept. 25 that the Court, “acting for a third time,” barred Missouri from using “a redrawn map designed to favor Republicans in November's elections,” suspending lower-court decisions that would have required the new boundaries for the Nov. 3 midterms. USA Today confirmed the Sept. 25 ruling: the Court “for the third time, sided with opponents of a GOP-drawn congressional map,” with no noted dissents, and that the 2025 map -- “drawn at the request of President Donald Trump” -- would have broken up Cleaver's Kansas City district to give Republicans seven of eight seats. Parnas's details (the 8th Circuit reversal, Secretary of State Denny Hoskins held in contempt by the Missouri Supreme Court, the 2022 map staying) all match the named outlets. The verdict is accurate: every material element is corroborated. The only forward-looking unknown is the November referendum on the 2025 map, which could still change future elections.“”",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/us-supreme-court-bars-republican-drawn-map-missouri-third-time-2026-09-25/"
+   },
+   {
+    "name": "USA Today",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/25/supreme-court-redistrict-trump-missouri-midterm-election/91902594007/"
+   }
+  ],
+  "trending_context": "Third SCOTUS block of the Trump-pushed Missouri map; a major story across left-leaning outlets Sep 25-26.",
+  "order": 5
+ },
+ {
+  "id": "T06",
+  "headline": "NEWS: Trump Stews Over Press, Kimberly Guilfoyle Threatens Regime Change, AI Meddles With US Government, Big Supreme Court Ruling",
+  "outlet": "Aaron Parnas (Substack)",
+  "article_url": "https://aaronparnas.substack.com/p/news-trump-stews-over-press-kimberly",
+  "published": "2026-09-26",
+  "trending_claim": "Iranian President Masoud Pezeshkian told CBS's Face the Nation that Iran would allow U.N. nuclear inspectors back into the country as part of a long-term ceasefire deal.",
+  "verdict": "accurate",
+  "rating_explained": "“”Parnas reports Pezeshkian's CBS interview statements. LatestLY's account of the Sept. 25 interview confirms: asked by “Face the Nation” moderator Margaret Brennan whether Iran would allow inspectors in, Pezeshkian answered “That is absolutely correct” twice, adding, “If they wish to come in and have inspections, we can reach accords and agreements vis-a-vis that specific topic within the negotiations.” It also confirms he reiterated that “developing nuclear weapons is haram” (forbidden) and that he wants a deal finalized before November's U.S. midterms. NPR/WAMC independently reported that Pezeshkian told CBS that if the U.S. accepts the Hormuz proposal and resumes nuclear negotiations, “Iran would allow U.N. nuclear inspectors to enter the country.” The verdict is accurate: the interview statements are quoted consistently across outlets. Disputed/unknown: whether any inspection regime will actually materialize -- it depends on a deal that does not yet exist, and a senior Iranian official said Sept. 25 that Iran would make no broader nuclear concessions even if the Hormuz proposal is accepted.“”",
+  "sources": [
+   {
+    "name": "LatestLY",
+    "url": "https://www.latestly.com/world/iran-president-masoud-pezeshkian-says-tehran-would-allow-un-nuclear-inspectors-under-peace-deal-7621100.html"
+   },
+   {
+    "name": "WAMC/NPR",
+    "url": "https://www.wamc.org/2026-09-26/trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable"
+   }
+  ],
+  "trending_context": "Parnas roundup item; Pezeshkian's CBS interview made news as the Hormuz proposal unfolded.",
+  "order": 6
+ },
+ {
+  "id": "T07",
+  "headline": "NEWS: Trump Stews Over Press, Kimberly Guilfoyle Threatens Regime Change, AI Meddles With US Government, Big Supreme Court Ruling",
+  "outlet": "Aaron Parnas (Substack)",
+  "article_url": "https://aaronparnas.substack.com/p/news-trump-stews-over-press-kimberly",
+  "published": "2026-09-26",
+  "trending_claim": "Per CBS News reporting, U.S. troops killed in an Iranian drone strike on Kuwait could have been moved to safer ground beforehand, but Brig. Gen. Clint Barnes rejected the safer relocation plans despite intelligence warnings.",
+  "verdict": "mostly-accurate",
+  "rating_explained": "“”Parnas summarizes CBS News reporting on the March 1, 2026 Iranian drone strike on the Port of Shuaiba, Kuwait, that killed six U.S. Army Reserve soldiers of the 103rd Sustainment Command and wounded 20+. Two independent accounts of the CBS reporting confirm the core: at least two relocation options -- Logistical Support Area Jenkins near Yanbu and Prince Sultan Air Base near Riyadh -- were scouted and presented to the 103rd's leadership before the strike, while Army intelligence had warned since January that Shuaiba could be an Iranian target. However, Parnas's phrasing -- that Barnes “opted to keep the unit in place” -- is imprecise: the CBS reporting says Barnes rejected the two Saudi options and instead chose to move the unit from Camp Arifjan to Port of Shuaiba, following a previous unit's playbook. The substance (safer options scouted, presented, and rejected before the deadly strike; intelligence warnings ignored) is right, but the “kept in place” summary misdescribes what happened. Hence mostly-accurate. Unknown/disputed: the Army completed an investigation in early July 2026 but has not released findings; CBS's reporting does not establish that Barnes caused the deaths.“”",
+  "sources": [
+   {
+    "name": "OAF Nation",
+    "url": "https://oafnation.com/blogs/news/army-faces-scrutiny-over-kuwait-attack"
+   },
+   {
+    "name": "US Inquirer",
+    "url": "https://www.us-inquirer.com/story/commander-rejected-plans-to-rebase-before-deadly-drone-strike-sources-say/"
+   }
+  ],
+  "trending_context": "Parnas roundup item; the CBS investigation into the deadly Kuwait strike circulated widely Sep 26.",
+  "order": 7
+ },
+ {
+  "id": "T08",
+  "headline": "In a win for voters, Supreme Court blocks Missouri's gerrymandered map for midterms",
+  "outlet": "Democracy Docket",
+  "article_url": "https://www.democracydocket.com/news-alerts/in-a-win-for-voters-supreme-court-blocks-missouris-gerrymandered-map-for-midterms/",
+  "published": "2026-09-25",
+  "trending_claim": "The U.S. Supreme Court reaffirmed that Missouri cannot use its gerrymandered 2025 congressional map for the 2026 midterm elections, since absentee ballots using the older map had already gone out.",
+  "verdict": "accurate",
+  "rating_explained": "“”Democracy Docket reports that the Supreme Court reaffirmed Missouri cannot use its gerrymandered 2025 map for the midterms, noting overseas and absentee ballots had already gone out under the older map. Reuters confirmed the Sept. 25 action: the Court barred the redrawn map “for a third time,” suspending lower-court orders that would have imposed it for the November elections, with absentee voting already underway. USA Today reported the same ruling with “no noted dissents,” quoting the Court's warning that switching maps mid-election “would usher in electoral chaos,” and that Secretary of State Denny Hoskins was “well aware” of the risks of running the August primary on the disputed map. Democracy Docket's account -- the third block, the criticism of Hoskins and the 8th Circuit, the Missouri Supreme Court's Sept. 3 ruling and contempt finding against Hoskins -- matches both outlets. Verdict: accurate. The piece is an advocacy outlet's news alert, but its factual assertions are all corroborated; the voter referendum on the 2025 map remains pending and could affect future elections.“”",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/us-supreme-court-bars-republican-drawn-map-missouri-third-time-2026-09-25/"
+   },
+   {
+    "name": "USA Today",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/25/supreme-court-redistrict-trump-missouri-midterm-election/91902594007/"
+   }
+  ],
+  "trending_context": "Democracy Docket's news alert on the third SCOTUS block; heavily shared on the left Sep 25-26.",
+  "order": 8
+ },
+ {
+  "id": "T09",
+  "headline": "Saturday Updates: Trump Rejects Peace, Rolls Out the Red Carpet for Xi, and Blames Biden for Everything – 9/26/26",
+  "outlet": "MeidasPlus",
+  "article_url": "https://www.meidasplus.com/p/saturday-updates-trump-rejects-peace",
+  "published": "2026-09-26",
+  "trending_claim": "The Army is quietly preparing for possible military action involving Cuba even as Trump publicly says, “I don’t think we’ll need the military.”",
+  "verdict": "mixed",
+  "rating_explained": "“”MeidasPlus's Saturday roundup contrasts Trump's public line on Cuba -- “I don't think we'll need the military” (Sept. 26) -- with reporting that the U.S. military is preparing for possible action around Cuba. Both halves are real: USA Today quoted Trump's Sept. 26 remarks that he doesn't predict U.S. military action and wants a deal with Cuba, and The Source (summarizing CBS News) reported the Army Reserve is assessing whether it could supply military police, medics, engineers, and sustainment units to U.S. Southern Command within 90-120 days. But the bullet's framing -- “The Army quietly plans to target Cuba next” -- overstates the sourcing. The internal message reviewed by CBS did not name Cuba; U.S. officials described it as “continuing contingency planning involving the island,” and officials said no deployment orders have been issued. Contingency planning is not the same as a plan to attack. The body text is more careful (“reports have said that the U.S. is preparing for some sort of military intervention”), but the headline bullet implies an offensive plan the evidence doesn't establish. Verdict: mixed. What is genuinely established is the tension between Trump's downplaying and real military contingency work; what is unknown is whether any operation is actually intended.“”",
+  "sources": [
+   {
+    "name": "USA Today",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/26/trump-united-states-cuba-pressure-fail/91958965007/"
+   },
+   {
+    "name": "The Source (summarizing CBS News)",
+    "url": "https://thesource.com/2026/09/25/army-reserve-checks-cuba-contingency-support-as-cuban-invasion-fears-ramp-up/"
+   }
+  ],
+  "trending_context": "MeidasPlus roundup bullet; the Cuba contingency story fed invasion speculation on the left.",
+  "order": 9
+ },
+ {
+  "id": "T10",
+  "headline": "Trump Goes Full-Blown Fascist Propaganda In New Ad Paid For By OUR Tax Dollars",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/trump-goes-full-blown-fascist-propaganda",
+  "published": "2026-09-25",
+  "trending_claim": "The Trump administration used taxpayer money to pay for a television ad promoting President Donald Trump, which ends with the on-screen disclaimer “Paid for by the U.S. Government.“",
+  "verdict": "accurate",
+  "rating_explained": "“”The central factual claim checks out against multiple named sources. A White House official confirmed to USA Today (September 25, 2026) that the 30-second spot was produced by the administration and funded with federal dollars, and that it closes with “Paid for by the U.S. Government.” The Associated Press (September 25, 2026) independently reported the ad as a U.S. government-funded TV advertisement promoting Trump, noting that ad-tracking firm AdImpact measured spending rising from about $14,000 to $430,000 as airtime expanded across cable networks, and that the White House declined to say which part of the government supplied the funds. The ad's content as described by Crooks and Liars -- Trump vowing to “defeat communism, socialism and Marxism,” rapid-fire images of the president, on-screen claims about tax cuts, manufacturing and law and order, a chorus singing “Love Me,” and UFC CEO Dana White praising Trump -- matches the USA Today and AP descriptions, including its first airing during Fox News's “Jesse Watters Primetime.” The word “fascist” is the outlet's editorial characterization, not a verifiable factual claim. Separately, whether the ad is unlawful is genuinely disputed rather than settled: Democratic lawmakers and Public Citizen, which filed a complaint with the Government Accountability Office, call it illegal government propaganda; the White House insists it is a lawful, nonpolitical “public service announcement.” No court or GAO ruling has resolved that legal question, so the article's factual core is accurate while its legal conclusion remains contested.“”",
+  "sources": [
+   {
+    "name": "USA Today",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/25/trump-love-me-ad-political-commercial-midterm-election/91934082007/"
+   },
+   {
+    "name": "Associated Press (via KCAU 9)",
+    "url": "https://www.kcau9.com/news/national/ap-pro-trump-tv-ad-paid-for-by-us-government-continues-airing-with-higher-spend/"
+   }
+  ],
+  "trending_context": "Viral C&L post on the government-funded pro-Trump ad; corroborated by USA Today and AP Sep 25.",
+  "order": 10
+ },
+ {
+  "id": "T11",
+  "headline": "Palm Beach County, Home To Mar-a-Lago, Passes Data Center Moratorium",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/palm-beach-county-home-mar-lago-passes",
+  "published": "2026-09-26",
+  "trending_claim": "Palm Beach County -- home to Trump's Mar-a-Lago -- voted 6-0 to enact a one-year moratorium on new large-scale data centers using at least 50 MW of power, despite Trump saying communities that reject data centers would end up “backwards and poor.”",
+  "verdict": "accurate",
+  "rating_explained": "“”The Palm Beach Post reported that the Palm Beach County Commission voted 6-0 at its Sept. 24 zoning hearing to approve a one-year moratorium on large-scale AI data centers while officials develop new regulations, and The Real Deal independently confirmed the unanimous vote and that the pause applies to new applications for facilities with a monthly peak load of at least 50 megawatts, effective until Sept. 24, 2027. Both outlets also confirm the context the article cites: Trump has pressed communities to accept data centers, with Fox News quoting his Sept. 4 Oval Office remark that communities rejecting them would face “poverty, crime and squalor,” and the Post noting Trump called rejecting data centers “a mistake.” The irony the article highlights -- Trump's home county pausing exactly what he demands -- is therefore factually supported. Minor wording caveat: the article says the county voted to “block” construction, while technically it pauses new applications rather than imposing a permanent ban; the practical effect on new large-scale projects is the same, so this does not change the verdict.“”",
+  "sources": [
+   {
+    "name": "Palm Beach Post",
+    "url": "https://www.palmbeachpost.com/story/news/local/wellington/2026/09/24/palm-beach-county-approves-one-year-ai-data-center-moratorium/91922740007/"
+   },
+   {
+    "name": "The Real Deal",
+    "url": "https://therealdeal.com/miami/2026/09/24/palm-beach-county-approves-1-year-data-center-pause/"
+   }
+  ],
+  "trending_context": "C&L repost of Common Dreams; the Mar-a-Lago irony angle made it a hit on the left Sep 26.",
+  "order": 11
+ },
+ {
+  "id": "T12",
+  "headline": "Trump Administration Finalizes Rule that Makes Cars Less Fuel Efficient",
+  "outlet": "Sierra Club",
+  "article_url": "https://www.sierraclub.org/press-releases/2026/09/trump-administration-finalizes-rule-makes-cars-less-fuel-efficient",
+  "published": "2026-09-26",
+  "trending_claim": "The Trump administration finalized a rule rolling back federal CAFE standards, making vehicles less fuel efficient and forcing Americans to spend more on gasoline.",
+  "verdict": "mostly-accurate",
+  "rating_explained": "“”Reuters reported on Sept. 26 that the Transportation Department would finalize sharply lower vehicle fuel-economy standards through 2031, cutting the 2031 fleetwide target to 34.5 mpg from 50.4 mpg under Biden, and -- crucially -- that the department's own estimates show the change increasing fuel consumption by about 100 billion gallons through 2050, fuel spending by $185 billion, and carbon dioxide emissions by about 5%. That directly substantiates the Sierra Club's core claim that the rollback makes cars less fuel-efficient and raises gasoline spending. Two caveats keep this from a clean “accurate”: formal finalization was set for the following Monday, with Trump announcing his approval on Truth Social, so the press release's “finalizes” slightly overstates the timing; and the Sierra Club omits the department's countervailing estimate that average new-vehicle purchase costs would fall by about $930 -- a material offset for the same families the release says are struggling. The direction of the claim is correct and grounded in the agency's own analysis, but the omitted upfront savings and premature “finalized” framing make “mostly-accurate” the honest rating.“”",
+  "sources": [
+   {
+    "name": "Reuters (via WNCY)",
+    "url": "https://wncy.com/2026/09/26/trump-says-he-approved-fuel-economy-standards-ending-biden-ev-mandate/"
+   },
+   {
+    "name": "Reuters (via LA Post)",
+    "url": "https://www.lapost.com/content/trump-says-he-approved-fuel-economy-standards-ending-biden-ev-mandate"
+   }
+  ],
+  "trending_context": "Sierra Club press release amplified across climate and left-leaning feeds Sep 26.",
+  "order": 12
+ },
+ {
+  "id": "T13",
+  "headline": "White House Claim of $250 Billion in Fraud Questionable",
+  "outlet": "Political Wire",
+  "article_url": "https://politicalwire.com/2026/09/27/white-house-claim-of-250-billion-in-fraud-questionable/",
+  "published": "2026-09-27",
+  "trending_claim": "Vice President Vance's claim that the administration “found $250 billion of fraud just since the president made me the fraud czar” is questionable because the numbers are overstated, rely on temporary funding pauses, and include cases predating Trump's second term.",
+  "verdict": "misleading",
+  "rating_explained": "“”Vance did claim at the Republican midterm convention that the task force found “$250 billion of fraud just since the president made me the fraud czar,” and the White House's Sept. 25 fraud ledger tallied $260.7 billion “uncovered.” But the ledger itself shows why the headline figure is misleading: it counts everything since January 2025 -- two months before the task force was formed in March -- and “uncovered” is the administration's own term for estimated fraud identified through data analysis, including suspicious payments merely flagged for examination, not verified fraud or money recovered. Even the sympathetic outlet covering the ledger cautioned that “'Uncovered' does not automatically mean a court has entered a final judgment, and annualized savings are not the same thing as cash returned to the Treasury.” The New York Times investigation quoted by Political Wire found the numbers overstated, lacking specificity, padded with temporary funding pauses and cases long predating Trump's second term, and built on unverifiable or prematurely classified allegations. Presenting flagged estimates and annualized projections as “found” fraud is misleading, even if the underlying enforcement effort is real.“”",
+  "sources": [
+   {
+    "name": "WLT Report (White House fraud ledger coverage)",
+    "url": "https://wltreport.com/2026/09/25/trump-white-house-drops-stunning-new-fraud-ledger/"
+   },
+   {
+    "name": "Independent Women (Vance convention remarks)",
+    "url": "https://www.independentwomen.com/2026/09/11/jd-vance-ai-and-data-centers-root-out-government-fraud/"
+   }
+  ],
+  "trending_context": "Political Wire's takedown of Vance's fraud-czar numbers; widely cited on the left Sep 27.",
+  "order": 13
+ },
+ {
+  "id": "T14",
+  "headline": "Trump Backs Off Diesel Export Ban Scheme but Still Wants to Do Something",
+  "outlet": "Naked Capitalism",
+  "article_url": "https://www.nakedcapitalism.com/2026/09/trump-backs-off-diesel-export-ban-scheme-but-still-wants-to-do-something.html",
+  "published": "2026-09-27",
+  "trending_claim": "Trump considered restricting or banning diesel exports but backed off an outright ban; such a ban could briefly lower Gulf Coast diesel prices yet would force refineries to cut runs and raise gasoline prices.",
+  "verdict": "accurate",
+  "rating_explained": "“”Reuters confirmed the full sequence the article describes: Politico, citing five people familiar with the discussions, reported the White House was preparing a 90-day diesel export ban; Trump said on Sept. 22 that he backed the idea; the White House then denied a flat ban was planned; and Energy Secretary Chris Wright said on Sept. 23 that “the blunt tool of banning diesel exports definitely doesn't work.” Wright laid out the exact mechanism the article analyzes: if diesel cannot be exported, refineries run out of storage and must reduce U.S. refining, putting upward pressure on gasoline and jet fuel prices. A second Reuters report added that analysts warned a ban would push down U.S. diesel prices while hurting refining margins, with refineries likely cutting crude runs and thereby reducing gasoline supply -- precisely the short-term price dip followed by longer-term gasoline cost increase the article walks through. The article's framing of a walked-back ban with the administration still pursuing voluntary measures matches the on-record sequence, and its refinery-economics analysis is corroborated by both Wright and industry analysts.“”",
+  "sources": [
+   {
+    "name": "Reuters via SRN News",
+    "url": "https://srnnews.com/us-energy-secretary-wright-says-diesel-export-ban-would-not-work/"
+   },
+   {
+    "name": "Reuters via LA Post",
+    "url": "https://www.lapost.com/content/us-diesel-futures-fall-after-report-of-export-ban-plan-which-the-white-house-denies"
+   }
+  ],
+  "trending_context": "Naked Capitalism's analysis of the diesel-ban trial balloon; picked up across energy and left-leaning feeds.",
+  "order": 14
+ },
+ {
+  "id": "T15",
+  "headline": "US Amb. To China Insists Trump Got Assurances From Xi On Iran",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/us-amb-china-trump-got-assurances-xi-iran",
+  "published": "2026-09-26",
+  "trending_claim": "Ambassador David Perdue claimed that during the Trump-Xi summit, Trump warned Xi that Chinese support for Iran was “totally unacceptable” and received assurances Beijing was not supporting Iran.",
+  "verdict": "mixed",
+  "rating_explained": "“”The attribution is accurate: Reuters confirmed on Sept. 25 that Ambassador David Perdue told CNBC that Trump had warned Xi that direct or indirect Chinese support for Iran was “totally unacceptable,” and told Fox News' America's Newsroom that “they assured us yesterday they're not doing that.” The New York Post independently confirmed the same statements and added that Perdue said “we have seen evidence that they have listened to us.” So the article accurately reports what Perdue claimed. But the headline's implication -- that the assurances are an established diplomatic fact -- does not hold up. The same Reuters reporting carries a senior Iranian official's same-day statement that Chinese officials assured Tehran they would NOT limit economic, political, or military ties with Iran under U.S. pressure; Reuters had reported in July on up to 400 Chinese-made air-defense missile launchers bound for Iran; China buys roughly 90% of Iran's oil exports; and Xi offered no public comment on Chinese support for Iran. AP separately reports Trump “shrugged off reports that China had provided Iran with satellite imagery” and CBS described the visit as wrapping “with few achievements announced.” Perdue said it, but the assurance is one-sided, immediately contradicted, and unverified -- making the story's headline-level claim mixed rather than confirmed.“”",
+  "sources": [
+   {
+    "name": "Reuters via LA Post",
+    "url": "https://www.lapost.com/content/trump-told-xi-that-china-helping-iran-is-unacceptable-us-ambassador-says"
+   },
+   {
+    "name": "New York Post",
+    "url": "https://nypost.com/2026/09/25/us-news/trump-told-chinas-xi-that-support-for-iran-was-totally-unacceptable-us-ambassador/"
+   }
+  ],
+  "trending_context": "Trending on the left as a dunk on the administration's credulous public take on Beijing's promises regarding Iran.",
+  "order": 15
+ },
+ {
+  "id": "T16",
+  "headline": "“Nothing But a Back Stabber”— Trump Sours on Salazar",
+  "outlet": "MeidasTouch",
+  "article_url": "https://meidasnews.com/news/nothing-but-a-back-stabber-trump-sours-on-salazar",
+  "published": "2026-09-26",
+  "trending_claim": "After Rep. María Elvira Salazar criticized his immigration enforcement in a campaign ad, President Trump amplified 14 Truth Social attacks on her, including posts calling her ”nothing but a back stabber“ and urging a primary challenge.",
+  "verdict": "accurate",
+  "rating_explained": "“”CNN's Sept. 26 report confirms every material detail: Trump “shared in quick succession on Truth Social at least 14 posts from other users critical of Salazar,” including the quoted “She is nothing but a back stabber” and “So we need a NEW Republican to Replace Salazar.” MeidasTouch's additional quoted posts (“She tried a stunt and it back fired!”, “Primary her in two years,” and the call to “remove his endorsement”) are consistent with CNN's account of the same Saturday-evening barrage. The trigger is also confirmed: Salazar's ad telling Trump “some of your immigration enforcement efforts have gone too far,” and her subsequent “very good conversation” with Trump, whom she described as “very receptive” (CNN, Sept. 20). No part of the story's factual core is contradicted; the counts, quotes, dates, and sequence all line up across the article and both CNN reports. The article's framing (“turning on one of his Republican congressional allies”) is interpretive, but the underlying events are exactly as described. Verdict: accurate.“”",
+  "sources": [
+   {
+    "name": "CNN (Sept. 26)",
+    "url": "https://www.cnn.com/2026/09/26/politics/trump-maria-elvira-salazar-truth-social-posts?cid=external-feeds_iluminar_meta"
+   },
+   {
+    "name": "CNN (Sept. 20)",
+    "url": "https://www.cnn.com/2026/09/20/politics/salazar-trump-receptive-warning-hispanic-voters?cid=external-feeds_iluminar_meta"
+   }
+  ],
+  "trending_context": "Big on left-leaning feeds as a sign of Trump's midterm rift with Hispanic-district Republicans over immigration enforcement.",
+  "order": 16
+ },
+ {
+  "id": "T17",
+  "headline": "Trump's Angry Tirade Over Failing Press Ban Reveals His Achilles' Heel",
+  "outlet": "The New Republic",
+  "article_url": "https://newrepublic.substack.com/p/trumps-angry-tirade-over-failing",
+  "published": "2026-09-26",
+  "trending_claim": "Trump's Truth Social post claimed CNN and MS NOW deliberately “refused to cover” Xi Jinping's White House arrival; in fact there was no widely aired coverage because the TV pool suspended rolling coverage in solidarity after Trump barred the outlets from White House grounds.",
+  "verdict": "accurate",
+  "rating_explained": "“”The article quotes Trump's post verbatim -- “CNN and MSDNC... today refused to cover one of the Biggest and Most Beautiful Events... the arrival at the White House of the Highly Respected President of China, Xi Jinping... they refused to be there” -- and its debunking is confirmed by two independent sources. AP (Sept. 27) documents the sequence: Trump banned CNN, MS NOW, and Politico from the White House on Sept. 18; on Sept. 23 the primary TV pool “did not cover the president as they stood in solidarity with CNN”; a federal judge ordered the ban lifted Sept. 24. CNN's own reporting confirms it was scheduled for the Sept. 26 TV pool and was excluded from the Air Force One travel guidance. So the absence of coverage of Xi's arrival was a consequence of the solidarity suspension and the ban -- not a deliberate boycott to deny Trump credit, as he claimed. The article's motive-reading (“in reality out of pique”) is presented as analysis, not fact; the verdict here covers the checkable claims, which hold up precisely. Verdict: accurate.“”",
+  "sources": [
+   {
+    "name": "AP (via BusinessMirror)",
+    "url": "https://businessmirror.com.ph/2026/09/27/cnn-says-it-was-left-off-air-force-one-for-trumps-trip-to-a-college-football-game/"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/09/25/politics/white-house-blocks-cnn-air-force-one-travel-pool?cid=external-feeds_iluminar_meta"
+   }
+  ],
+  "trending_context": "The New Republic's newsletter lead on the press-ban fight, widely shared as a rebuttal to Trump's “refused to cover” claim.",
+  "order": 17
+ },
+ {
+  "id": "T18",
+  "headline": "Politics Girl Rips GOP Hypocrites For Rolling Out Red Carpet For Xi",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/politics-girl-rips-gop-hypocrites-rolling",
+  "published": "2026-09-27",
+  "trending_claim": "President Trump gave Chinese President Xi Jinping a lavish red-carpet welcome -- a 100-foot red carpet at Joint Base Andrews, a 21-person honor guard, a B-1 bomber flyover, and a White House state dinner.",
+  "verdict": "accurate",
+  "rating_explained": "“”AP's on-the-ground reporting (via Scripps/TMJ4) confirms the specifics in granular detail: “A 100-foot long red carpet was unfurled at the bottom of the staircase,” a “21-person honor guard was arrayed on the sides of the carpet,” the ceremony “included a flyover by two B-1 bombers,” and the visit culminated in a black-tie state dinner with tech leaders. A second AP analysis (via Barchart) is literally headlined around Trump “rolling out the red carpet for Xi” and notes Sen. Roger Wicker's criticism of the “lavish welcome.” One caveat: the article's featured guest, Leigh McGowan, goes further on air, claiming Xi is “funding the destruction of our own bases” and “attacking American soldiers through his own money.” Those are her quoted opinions, not the article's asserted facts; the established record is more limited -- Reuters reported up to 400 Chinese-made missile launchers expected for Iran and sanctions-evasion oil arrangements, while AP notes Trump himself “shrugged off reports that China had provided Iran with satellite imagery.” The checkable claim about Trump's red-carpet reception is confirmed in full, so the story rates accurate.“”",
+  "sources": [
+   {
+    "name": "AP (via TMJ4/Scripps)",
+    "url": "https://www.tmj4.com/politics/foreign-policy/trump-welcomes-chinas-xi-to-washington-with-planeside-ceremony-and-extension-of-trade-truce"
+   },
+   {
+    "name": "AP (via Barchart)",
+    "url": "https://www.barchart.com/story/news/4698836/trump-used-to-slam-china-here-s-why-he-s-now-rolling-out-the-red-carpet-for-xi"
+   }
+  ],
+  "trending_context": "Viral-style C&L post riding the left's outrage over the Xi state visit's pageantry during the Iran war.",
+  "order": 18
+ }
+]
