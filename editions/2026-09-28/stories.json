@@ -1,0 +1,508 @@
+[
+ {
+  "id": "T01",
+  "headline": "Trump asked China's Xi Jinping if he'd 'like to buy' American weapons, US ambassador reveals",
+  "outlet": "New York Post",
+  "article_url": "https://nypost.com/2026/09/27/us-news/trump-asked-chinas-xi-jinping-if-hed-like-to-buy-american-weapons-us-ambassador-reveals/",
+  "published": "2026-09-27",
+  "trending_claim": "Ambassador David Perdue said on Fox News Sunday that Trump asked Xi Jinping 'at one point' whether he would like to buy American weapons.",
+  "verdict": "accurate",
+  "rating_explained": "The Post's central claim is an attribution claim: that Ambassador David Perdue said on Fox News Sunday that President Trump asked Xi Jinping 'at one point' whether he would like to buy American weapons. The Associated Press (Ben Finley, syndicated Sept. 27-28) reported the identical quote verbatim: Perdue, speaking to Shannon Bream on 'Fox News Sunday' days after Trump hosted Xi for a state visit, said, 'He actually asked President Xi, would he like to buy some, at one point.' AP notes Perdue did not specify when the offer was made and was responding to questions about delayed Taiwan arms packages. The Wall Street Journal independently quoted the same line in its Sept. 28 follow-up. The White House has not clarified whether Trump was serious. The verdict is accurate because the Post's claim is precisely that Perdue said it, and that is confirmed word-for-word by two independent wire/newsroom sources. One caveat: whether Trump actually made the offer to Xi is unconfirmed by any source — Perdue said it, and the Post reports only that he said it, so the attribution holds.",
+  "sources": [
+   {
+    "name": "Associated Press (via LA Post)",
+    "url": "https://www.lapost.com/content/trump-asked-china-s-president-if-he-wants-to-buy-us-arms-ambassador-says"
+   },
+   {
+    "name": "Wall Street Journal",
+    "url": "https://www.wsj.com/world/china/u-s-says-no-plans-to-sell-weapons-to-china-after-perdue-comments-ed99bf46"
+   }
+  ],
+  "trending_context": "On Sept. 28, Politomix showed the story with 118 shares; the same claim was picked up the same day by AP syndication, the Wall Street Journal, Reuters, and the New York Times.",
+  "order": 1
+ },
+ {
+  "id": "T02",
+  "headline": "U.S. Says No Plans to Sell Weapons to China After Perdue Comments",
+  "outlet": "Wall Street Journal",
+  "article_url": "https://www.wsj.com/world/china/u-s-says-no-plans-to-sell-weapons-to-china-after-perdue-comments-ed99bf46",
+  "published": "2026-09-28",
+  "trending_claim": "U.S. officials said the Trump administration has no plans to sell weapons to China, and that such sales are already prohibited by law.",
+  "verdict": "accurate",
+  "rating_explained": "The Journal's central claim is that Trump administration officials said the U.S. has no plans to sell weapons to Beijing after Ambassador Perdue's Sunday remarks, and that such sales are already prohibited by law. This is confirmed by New York Times reporting (Edward Wong): the White House said through a U.S. official that the United States had no plans to sell arms to China, and the State Department said in a statement, 'U.S. law prohibits arms sales to China and there is no offer or plan to sell arms to China.' The legal prohibition is the longstanding post-1989 arms embargo on China, codified in U.S. law (Section 902 of the Foreign Relations Authorization Act for FY1990-1991, per CRS documentation cited by analysts covering the story). The Journal's two on-the-record U.S. officials match the NYT's account of the White House and State Department positions. The verdict is accurate: both halves of the claim — no plans, and a legal prohibition — are confirmed by named official statements carried by independent newsrooms.",
+  "sources": [
+   {
+    "name": "New York Times (via TAM synthesis of NYT World)",
+    "url": "https://theairmedia.passproevents.in/story/869571"
+   },
+   {
+    "name": "Reuters (Taiwan defense needs, Perdue/CNBC context)",
+    "url": "https://www.reuters.com/world/china/us-very-much-understands-taiwans-defence-needs-taipei-official-says-2026-09-27/"
+   }
+  ],
+  "trending_context": "Updated about an hour before the Sept. 28 search; it is the administration's on-the-record response to Perdue's Sunday remarks, which were the day's most-shared China story.",
+  "order": 2
+ },
+ {
+  "id": "T03",
+  "headline": "Zelensky says Trump has made 'final decision' to allow Kyiv to make Patriot missiles",
+  "outlet": "CNN",
+  "article_url": "https://www.cnn.com/2026/09/25/europe/trump-zelensky-patriots-manufacture-intl?cid=external-feeds_iluminar_meta",
+  "published": "2026-09-25",
+  "trending_claim": "Zelensky said Trump made a 'final decision' to grant Ukraine a license to manufacture Patriot missiles.",
+  "verdict": "accurate",
+  "rating_explained": "CNN's central claim is an attribution claim: that Ukrainian President Volodymyr Zelensky told reporters on Friday, September 25, that Trump had emphasized to him, 'yes, I have made the final decision: Ukraine will receive a license to manufacture Patriot missiles.' The Washington Examiner confirmed Zelensky made these statements Friday at the UN General Assembly, quoting him: 'There are concrete agreements in place,' and the same 'final decision' line. Signal Post News independently reported the same Zelensky account. The story also properly notes the unresolved underlying question: the Washington Examiner reported Trump 'has not referenced such a promise' and that it had reached out to the White House and State Department for comment; Signal Post News reported Trump declined to confirm the license when CNN asked him directly on Saturday, September 26, saying only that he and Zelensky discussed Patriots. The verdict is accurate because CNN's claim is that Zelensky said it — and he did, per multiple outlets. The underlying question of whether Trump actually made the final decision remains unconfirmed by the White House, and CNN itself flagged that it had approached the White House for comment, so the piece does not overstate the evidence.",
+  "sources": [
+   {
+    "name": "Washington Examiner",
+    "url": "https://www.washingtonexaminer.com/news/world/4742791/zelensky-trump-final-decision-provide-ukraine-patriot-missile-license/"
+   },
+   {
+    "name": "Signal Post News",
+    "url": "https://signalpostnews.com/zelenskyy-trump-final-decision-patriot-missiles-ukraine-september-2026"
+   }
+  ],
+  "trending_context": "Carried by CNN, the New York Post, and AFP syndication on Sept. 25-27, with follow-up coverage on Sept. 26 noting the White House did not confirm the license.",
+  "order": 3
+ },
+ {
+  "id": "T04",
+  "headline": "Iran condemns Trump's 'hateful and disgusting' threats in UN complaint",
+  "outlet": "Press TV",
+  "article_url": "https://www.presstv.co.uk/Detail/2026/09/28/777174/Iran-condemns-Trumps-hateful-disgusting-threats--UN",
+  "published": "2026-09-28",
+  "trending_claim": "Iran's UN envoy quoted Trump as saying 'I annihilate the Islamic Republic and do it quickly' in a letter to the UN secretary-general and Security Council president.",
+  "verdict": "accurate",
+  "rating_explained": "Press TV's central claim is that Iran's UN envoy, Gholamhossein Darzi, sent a letter to UN Secretary-General Guterres and the Security Council president condemning Trump's September 22 UNGA remarks and quoting him. The quotes in the complaint are verified against Trump's actual speech. Trump's words, as reported by the Christian Post (Sept. 22), CNN (Sept. 26), and the Associated Press (Sept. 23): 'I have a big decision to make... Or do I annihilate the Islamic Republic and do it quickly, never giving them a chance to kill and destroy people and countries again? Do I drive them into hell with no chance of survival and no hope of future greatness or generations?' Press TV's rendering — 'I annihilate the Islamic Republic and do it quickly' and 'drive them into hell with no chance of survival and no hope of future greatness' — is a slight compression (dropping 'do' and 'or generations'), but the substance is identical. One context note: Trump framed the remarks as a question within a 'big decision' (deal vs. annihilation), which Press TV presents more flatly. The letter's existence is reported by Press TV; it is consistent with Darzi's established pattern of such letters (IRNA documented a September 2 Darzi letter to the UNSG) and with Foreign Minister Araghchi's public response to the same speech. The verdict is accurate: the quotes attributed to Trump in the complaint are real and verified verbatim by named sources.",
+  "sources": [
+   {
+    "name": "Christian Post (Trump UNGA speech transcript quotes)",
+    "url": "https://www.christianpost.com/news/trump-threatens-to-annihilate-iran-at-un-highlights-christians.html"
+   },
+   {
+    "name": "CNN (Iran proposal / UNGA speech quotes)",
+    "url": "https://www.cnn.com/2026/09/26/middleeast/trump-rejects-iran-proposal-hormuz-intl?cid=external-feeds_iluminar_meta"
+   },
+   {
+    "name": "Associated Press (via Netscape, UNGA remarks)",
+    "url": "https://webcenters.netscape.compuserve.com/politics/story/0001/20260923/f7cb0b3ebc492446c0be97ed3a6843aa"
+   }
+  ],
+  "trending_context": "Published Sept. 28; search results on Sept. 28 showed it updated about eight hours earlier, citing Trump's Sept. 22 UN General Assembly address.",
+  "order": 4
+ },
+ {
+  "id": "T05",
+  "headline": "Iran War Wounded Count Jumps to 861 as Pentagon Stays Silent, Trump Touts Unverified Ukraine Death Tolls",
+  "outlet": "Unbiased Headlines",
+  "article_url": "https://unbiasedheadlines.com/article/iran-war-wounded-count-jumps-to-861-as-pentagon-stays-silent-trump-touts-unverified-ukraine-death-tolls",
+  "published": "2026-09-26",
+  "trending_claim": "Trump said 25,000 people died in the Ukraine war last month, 32,000 the month before, and 33,000 before that, '97% soldiers,' without citing a source.",
+  "verdict": "accurate",
+  "rating_explained": "Unbiased Headlines' central claim is that President Trump told reporters on Saturday, September 26, that 25,000 people died in the Ukraine-Russia war last month, 32,000 the month before ('mostly soldiers, 97% soldiers'), and 33,000 two months ago — and that he cited no source. Fox News Digital's original reporting quotes him verbatim: 'Last month, 25,000 people died in the Ukraine-Russia war, okay? 25,000... The month before that, 32,000 people died... mostly soldiers, 97% soldiers... Two months ago, 33,000 people; this month, 25,000 people died. What a shame.' Multiple mirrors of the Fox piece (NY Times Post, RealTalk Digest, Cybernistas) carry the same quotes. Trump provided no methodology, battlefield audit, or third-party source. For scale: the Center for Strategic and International Studies estimates Russia alone has lost up to 450,000 soldiers cumulatively since the 2022 invasion — Trump's single-month figures would equal roughly a fifth of that entire 3.5-year cumulative estimate in one month, and no independent tracker cited in available reporting supports monthly death tolls of that magnitude. The verdict is accurate: the story's claim is that Trump made these unsourced claims, and both halves — that he said it, and that he gave no source — are verified by named sources.",
+  "sources": [
+   {
+    "name": "Fox News Digital (via NY Times Post mirror)",
+    "url": "https://nytimespost.com/trump-claims-stunning-casualty-numbers-in-russia-ukraine-war/"
+   },
+   {
+    "name": "Conservative Legal News (Fox News reporting summary)",
+    "url": "https://conservativelegalnews.com/trump-cites-tens-of-thousands-of-monthly-war-deaths-while-pressing-ukraine-to-settle-with-putin/"
+   }
+  ],
+  "trending_context": "Published Sept. 26; Trump's White House lawn remarks were reported by Fox News Digital the same day and mirrored across outlets Sept. 26-27, while the Washington Post reported the DCAS wounded-count jump it cites.",
+  "order": 5
+ },
+ {
+  "id": "T06",
+  "headline": "Iran's economy will have 'nothing' left 'within two weeks,' Scott Bessent warns",
+  "outlet": "New York Post",
+  "article_url": "https://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/",
+  "published": "2026-09-27",
+  "trending_claim": "Bessent said Iran has only 15 million more barrels of oil 'on the water' and will make its final oil deliveries to China within two weeks.",
+  "verdict": "accurate",
+  "rating_explained": "The Post's central claim is an attribution claim: that Treasury Secretary Scott Bessent said on Fox News' 'Sunday Morning Futures' (Sept. 27) that only '15 million more barrels of Iranian oil' remain 'on the water' and that Iran would make its final oil deliveries to China 'probably within the next two weeks,' after which 'they will have nothing.' The Daily Caller independently quoted the same interview segment verbatim, in the context of Bessent rebutting Gen. Jack Keane's claim about Chinese military aid to Iran: 'I am confident given that there are only 15 million more barrels of Iranian oil on the water, then Iran will have nothing left to trade for anything... Probably within the next two weeks they are going to make their final deliveries of oil to China, and then they will have nothing.' Fox-syndicated mirrors (NY Times Post, Internewscast) carry the same quotes. Whether Bessent's underlying economic prediction is correct cannot be verified today — the claim checked here is the attribution, which is confirmed by independent outlets. The verdict is accurate: Bessent said exactly what the Post reports.",
+  "sources": [
+   {
+    "name": "Daily Caller",
+    "url": "https://dailycaller.com/2026/09/27/scott-bessent-dismisses-report-china-support-iran-fox-news-sunday-morning-futures-larry-kudlow"
+   },
+   {
+    "name": "NY Times Post (Fox News syndicated mirror)",
+    "url": "https://nytimespost.com/bessent-says-iran-will-have-nothing-left-to-trade-within-two-weeks-as-oil-lifeline-dries-up/"
+   }
+  ],
+  "trending_context": "On Sept. 28, Politomix showed the story with 108 shares; the remarks came from Bessent's Sept. 27 Fox News 'Sunday Morning Futures' appearance.",
+  "order": 6
+ },
+ {
+  "id": "T07",
+  "headline": "Trump DOJ Claims It Complied With Latest Epstein Order in Katie Phang Case",
+  "outlet": "MeidasTouch",
+  "article_url": "https://meidasnews.com/news/trump-doj-claims-it-handed-judge-epstein-fbi-notes-on-disturbing-trump-allegations",
+  "published": "2026-09-26",
+  "trending_claim": "The Justice Department says Attorney General Todd Blanche complied with Judge Emmet Sullivan's September 16 order by turning over, for in-camera review, redacted and unredacted handwritten FBI notes from four interviews with a woman alleging Donald Trump sexually and physically abused her when she was 13 to 15; the judge has not yet confirmed what redaction-support material was submitted.",
+  "verdict": "accurate",
+  "rating_explained": "MeidasTouch's central claim is carefully hedged, and the hedges check out. First, the order itself: Judge Emmet Sullivan's September 16 order required Attorney General Todd Blanche to submit redacted and unredacted handwritten FBI notes underlying four FD-302 reports — memorializing interviews with a woman alleging Trump sexually and physically abused her when she was 13 to 15 — for in-camera review by September 24 at 11 a.m. ET, plus documentation supporting three disputed victim-related redactions (Bates EFTA01187999, EFTA02504630, EFTA01022356). This is confirmed by Joyce Vance's Substack analysis and the Phang v. Blanche Wikipedia case summary. Second, the compliance claim: Katie Phang's own 'Sidebar with Katie Phang' podcast (summarized by Podcast Rex) confirms that DOJ lawyer Andrew Block told Phang's team by email on September 25 that Blanche had complied with the order to produce the unredacted handwritten notes. Third, the uncertainty caveat: Phang herself reported that no notice of compliance appeared on the public docket, so it is unknown whether Blanche also produced the corroborating documentation for the three flagged redactions — the judge has not confirmed what was submitted. The verdict is accurate: the story's claim (DOJ says it complied; judge hasn't confirmed the redaction-support material) matches the verified record, including its own stated uncertainty.",
+  "sources": [
+   {
+    "name": "Podcast Rex (summary of Katie Phang's Sidebar podcast)",
+    "url": "https://podcastrex.com/shows/sidebar-with-katie-phang/ag-blanche-admits-he-turned-over-unredacted-epstein-files-in-my-lawsuit"
+   },
+   {
+    "name": "Joyce Vance Substack (Sept. 16 order analysis)",
+    "url": "https://joycevance.substack.com/p/there-are-new-court-orders-katie"
+   },
+   {
+    "name": "Martin D. Vasquez Substack (Sept. 24 deadline coverage)",
+    "url": "https://martindvasquez.substack.com/p/justice-department-faces-court-deadline"
+   }
+  ],
+  "trending_context": "Active multi-outlet coverage within the September 24-26 compliance window: Katie Phang reported the Sept 24 deadline and DOJ counsel Andrew Block's confirmation email, and follow-up analysis (e.g., a Sept 27 substack post on Blanche's answer in the suit) kept the story live; news search showed the MeidasTouch article updated 2 days before Sept 28.",
+  "order": 7
+ },
+ {
+  "id": "T08",
+  "headline": "'Sloppy and lazy': Kash Patel humiliated after teen hackers breach the FBI and steal personal info of thousands of agents",
+  "outlet": "UnPresidented",
+  "article_url": "https://unpresidented.substack.com/p/sloppy-and-lazy-kash-patel-humiliated",
+  "published": "2026-09-27",
+  "trending_claim": "Teen hackers (ShinyHunters) breached FBI internal systems and stole personal data of thousands of FBI agents -- stated as fact in the piece, while Reuters/AP reporting only partially verified sample records and had not established that the data came from FBI internal systems.",
+  "verdict": "misleading",
+  "rating_explained": "The UnPresidented piece states as established fact — in its headline and body — that ShinyHunters 'breached the FBI' and 'stole a massive collection of sensitive data from the agency, including the personal information of thousands of agents.' The named-source record does not support that framing. Reuters (Raphael Satter and AJ Vicens, Sept. 22) reported the group's claim and partially verified a sample of ~5,000 records — finding matches in at least 10 instances, including FBI Director Kash Patel, by running details against credit bureau records and the dark-web intelligence firm District 4 Labs — but explicitly wrote: 'the news agency could not establish where the data came from, or whether it had been stolen from the FBI's internal systems as the hackers claimed.' 404 Media, which first reported the claim, similarly verified only that some sample records matched real people via OSINT tools. The FBI's September 23 statement said it is 'aware of claims regarding unauthorized activity affecting FBIjobs.gov and is currently investigating' and, per cybersecurity outlet SecurityAffairs, the agency has not determined whether the point of breach was a third party or its own enterprise and has not confirmed its internal systems were compromised. The verdict is misleading rather than false: the piece's core assertion (the FBI was breached and thousands of agents' data stolen) is presented as fact, while every named source — including the Reuters reporting the piece itself cites — stops at 'claimed' and explicitly says the source of the data is unconfirmed.",
+  "sources": [
+   {
+    "name": "Reuters (via LA Post syndication)",
+    "url": "https://www.lapost.com/content/shinyhunters-hackers-say-they-breached-fbi"
+   },
+   {
+    "name": "SecurityAffairs (Pierluigi Paganini, FBI statement)",
+    "url": "https://securityaffairs.com/199612/cyber-crime/shinyhunters-claims-fbi-breach-after-alleged-peoplesoft-zero-day-attack.html"
+   },
+   {
+    "name": "SecureWorld (FBI Sept. 23 statement, verification summary)",
+    "url": "https://www.secureworld.io/industry-news/shinyhunters-fbi-breach-zero-day"
+   }
+  ],
+  "trending_context": "Published Sept 27 (search showed updated 1 day before Sept 28); the alleged breach appeared in weekend progressive commentary (e.g., a MeidasTouch Sept 26 video segment) and partial verification reporting by Reuters/AP kept it in the news cycle. Note: trending evidence is thinner than the other items; included as the 'suspicious claim' slot.",
+  "order": 8
+ },
+ {
+  "id": "T09",
+  "headline": "Two senior FBI agents ousted over investigation into alleged harassing calls to wife of Trump adviser Stephen Miller",
+  "outlet": "CNN",
+  "article_url": "https://www.cnn.com/2026/09/26/politics/fbi-agents-katie-miller-stephen-miller?cid=external-feeds_iluminar_meta",
+  "published": "2026-09-26",
+  "trending_claim": "FBI counterterrorism supervisors Michael Burgwald and Courtland Rae were removed and reassigned after their team found Katie Miller's alleged harassing calls did not meet the threshold for an FBI investigation and had no terrorism nexus; FBI official Darren Cox confirmed the moves but denied Patel ordered them, while White House spokeswoman Lauren Bis said leadership found they were 'stifling investigations into very serious threats.'",
+  "verdict": "accurate",
+  "rating_explained": "CNN's central claim is confirmed across its parts. Bloomberg Law first reported (Sept. 26) that Michael Burgwald, special agent in charge of counterterrorism at the FBI's Washington Field Office, and his deputy Courtland Rae were removed and reassigned over the handling of the Katie Miller harassing-calls investigation. CNN's two sources added the key detail that the field office team found the calls did not meet the threshold for an FBI investigation and identified no terrorism nexus — a point Bloomberg Law's original reporting did not include. FBI Washington Field Office chief Darren Cox confirmed the ousting in an on-record statement on the FBI's 'Rapid Response' account while denying Director Kash Patel ordered it: 'Director Patel did not order this decision... This was a personnel decision made at the Washington field office level alone.' White House spokesperson Lauren Bis's statement — that the Millers never interacted with the two officials and that 'senior leadership at the FBI determined they were stifling investigations into very serious threats' — was confirmed by Bloomberg Law's reporting as relayed by multiple outlets (WLT Report, AllChronology). The exact reason for the removals is contested between CNN's anonymous sources and the White House's on-record statement, and CNN presents both accounts without adjudicating between them. The verdict is accurate: every attributed element of the claim is verified by named sources.",
+  "sources": [
+   {
+    "name": "WLT Report (quoting Bloomberg Law's original reporting)",
+    "url": "https://wltreport.com/2026/09/27/report-fbi-removes-two-counterterrorism-chiefs-over-handling-of-katie-miller-harassment-investigation/"
+   },
+   {
+    "name": "AllChronology (Bloomberg Law + CNN corroboration summary)",
+    "url": "https://allchronology.com/2026/09/27/two-senior-fbi-counterterrorism-officials-demoted-after-dispute-over-katie-miller-threat-probe/"
+   }
+  ],
+  "trending_context": "Observed on Memeorandum on Sept 28 (memeorandum.com/260927/p26) with active discussion across CNN, The Independent, Daily Mail, TMZ, Bloomberg Law and others; Archynetys classified it trending on Sept 28, reporting five outlets published five stories in a short window.",
+  "order": 9
+ },
+ {
+  "id": "T10",
+  "headline": "Ex-CIA Official Warns Trump Risking 'Catastrophic Terrorist Event' in the U.S.",
+  "outlet": "The Ashland Chronicle",
+  "article_url": "https://theashlandchronicle.com/ex-cia-official-warns-trump-risking-catastrophic-terrorist-event-in-the-u-s/",
+  "published": "2026-09-27",
+  "trending_claim": "Retired senior CIA operations officer Marc Polymeropoulos warned on X that the Trump administration's shift of federal law enforcement from counterterrorism to immigration risks a 'mass casualty event,' citing ProPublica's analysis that DOJ dropped 23,000 criminal cases (including hundreds of terrorism investigations) in the first six months of Trump's term while opening 32,000 immigration cases.",
+  "verdict": "accurate",
+  "rating_explained": "The Chronicle's piece (an aggregation of Raw Story's reporting by David McAfee) makes two checkable claims. First, the ProPublica figures: confirmed directly. ProPublica's April 2026 analysis found the DOJ dropped more than 23,000 criminal cases in the first six months of Trump's second term — including more than 1,000 terrorism cases — while prosecuting 32,000 new immigration cases, nearly triple the Biden-administration pace (also summarized by Reason). The Chronicle's 'hundreds of terrorism investigations' is a conservative restatement of ProPublica's 'more than 1,000.' Second, the Polymeropoulos warning: the specific X post was not independently viewable, but the quoted language matches Polymeropoulos's on-the-record public position — NPR (Sept. 9, 2026) quoted him: 'I am afraid that counter-terrorism will not be a priority until a mass casualty event, and then it very much will be once again,' in the context of CT resources being shifted to the border. The Chronicle also notes he 'has been an outspoken Trump critic since leaving the agency,' giving relevant context. The headline's 'catastrophic terrorist event' paraphrases his actual 'mass casualty event' wording, but the body uses his words. The verdict is accurate: the ProPublica figures are fully verified and the attributed warning matches his confirmed public statements.",
+  "sources": [
+   {
+    "name": "ProPublica (original analysis)",
+    "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
+   },
+   {
+    "name": "NPR (via WEKU, Polymeropoulos on-the-record warning)",
+    "url": "https://www.weku.org/npr-news/2026-09-09/citing-the-deep-state-trump-overhauls-the-intelligence-community?_amp=true"
+   },
+   {
+    "name": "Reason (ProPublica figures summary)",
+    "url": "https://reason.com/2026/04/02/justice-department-drops-23000-cases-to-make-room-for-trumps-immigration-crackdown/printer/"
+   }
+  ],
+  "trending_context": "Published Sept 27; ProPublica's declination figures were actively cited across critical outlets during the Sept 26-28 window (Raw Story, MeidasTouch), and the piece feeds the same weekend conversation as the trending FBI counterterrorism demotions story tracked on Memeorandum and Archynetys.",
+  "order": 10
+ },
+ {
+  "id": "T11",
+  "headline": "Trump admin cancels funding for refugees, immigrants and others in move lawmakers argue is illegal",
+  "outlet": "CNN",
+  "article_url": "https://www.cnn.com/2026/09/26/politics/trump-administrion-pocket-rescissions?cid=external-feeds_iluminar_meta",
+  "published": "2026-09-26",
+  "trending_claim": "Trump sent a pocket-rescission package to Congress on Friday, September 25, canceling $810 million in already-appropriated spending — including $567 million for HHS Refugee and Entrant Assistance — in what critics call an unlawful end-run around Congress's power of the purse.",
+  "verdict": "accurate",
+  "rating_explained": "CNN's central claim is fully confirmed by named sources. Reuters (Sept. 25, Thomson Reuters): 'US President Donald Trump sought on Friday to unilaterally withhold more than $800 million in spending on immigration, race and education that Congress has approved,' via a rarely used 'pocket rescission' technique. Bloomberg Government confirmed the $810 million total and the $567 million cut to HHS's Office of Refugee Resettlement programs, with the remaining cuts spanning Commerce, Education, DHS, HUD, Justice, and international assistance. The Washington Examiner confirmed the same figures and the Friday-night timing. On the legality dispute, CNN attributes the 'illegal' characterization to lawmakers — verified: Senate Appropriations Chair Susan Collins (R-Maine) said on September 25 that Congress received the $810 million package 'without warning or consultation' and that 'any effort to rescind appropriated funds without congressional approval is a clear violation of the law'; the GAO has concluded pocket rescissions that withhold funds through expiration are unlawful. CNN also presents the White House's rationale ('most harmful government spending' under the Impoundment Control Act) and notes the prior-year $4.9 billion foreign-aid pocket rescission precedent. The verdict is accurate: the amounts, the timing, the mechanism, and the attributed criticism are all verified, and the piece presents both sides of the dispute.",
+  "sources": [
+   {
+    "name": "Reuters (via WNCY syndication)",
+    "url": "https://wncy.com/2026/09/25/trump-seeks-to-withhold-800-million-in-congress-approved-funds/"
+   },
+   {
+    "name": "Bloomberg Government",
+    "url": "https://news.bgov.com/bloomberg-government-news/trump-to-cut-1-billion-in-spending-with-recissions-package"
+   },
+   {
+    "name": "Washington Examiner",
+    "url": "https://www.washingtonexaminer.com/news/white-house/4743853/trump-dei-noncitizen-programs-1-billion-pocket-rescission/"
+   }
+  ],
+  "trending_context": "Major multi-outlet story on Sept 26-27 — covered same weekend by CBS, AP, Bloomberg Government, TIME/Yahoo, NY Post, and Daily Caller; bipartisan rebuke from Senate Appropriations Chair Susan Collins calling it 'a clear violation of the law.'",
+  "order": 11
+ },
+ {
+  "id": "T12",
+  "headline": "No breakthrough AI agreement between Trump and Xi during US-China summit",
+  "outlet": "USA Today",
+  "article_url": "https://www.usatoday.com/story/news/politics/2026/09/26/trump-xi-ai-technology-china-us/91957387007/",
+  "published": "2026-09-26",
+  "trending_claim": "The Trump-Xi summit produced no substantive AI agreement — only a 'Super Intelligence Dialogue' with a next round due by November 2026 and a bilateral AI incident communication channel — while Trump told reporters on Sept 26 that he and Xi 'had a big talk on SI' and that Xi 'likes the idea of changing the name to SI, too.'",
+  "verdict": "accurate",
+  "rating_explained": "The story asserts the summit yielded no breakthrough AI agreement, only a dialogue and an incident channel, plus a cosmetic renaming from 'AI' to 'superintelligence.' Named sources confirm every element: Reuters reported Sept 26 that the White House fact sheet established a 'US-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits,' with the next exchange by November 2026, and a 'bilateral communication channel' for SI incidents, noting Trump entered the summit wanting to 'leave it exactly where it is.' USTR Jamieson Greer separately confirmed there were 'no specific new AI developments' from the meeting. Trump's Sept 26 remarks to reporters outside the White House — 'we had a big talk on SI, and he likes the idea of changing the name to SI, too' — match the quote the article attributes to him. No established fact-checker has rated this claim. One caveat: the article attributes the incident-channel agreement to both 'the Chinese Foreign Ministry and the White House,' while secondary reporting notes only the US side had publicly described it — a minor attribution point that does not undermine the story's core 'no breakthrough' conclusion.",
+  "sources": [
+   {
+    "name": "Reuters (via TBS News), Sept 26",
+    "url": "https://www.tbsnews.net/worldbiz/usa/us-china-set-communication-channel-ai-incidents-after-trump-xi-meet-1554126"
+   },
+   {
+    "name": "Korea JoongAng Daily (White House fact sheet summary)",
+    "url": "https://www.koreajoongangdaily.com/world/trump-xi-agree-to-establish-ai-communication-channel-oppose-tolls-on-international-waterways-white-house/12892344"
+   }
+  ],
+  "trending_context": "The three-day Xi state visit was the week's top story; concurrent Sept 26-28 coverage of the $30B tariff agreement by WSJ, NY Post, and Bloomberg shows the summit outcome remains in active circulation.",
+  "order": 12
+ },
+ {
+  "id": "T13",
+  "headline": "US, China release product lists for $30 billion tariff deal",
+  "outlet": "The Hindu BusinessLine (Bloomberg)",
+  "article_url": "https://www.thehindubusinessline.com/news/world/us-china-release-product-lists-for-30-billion-tariff-deal/article71518411.ece/amp/",
+  "published": "2026-09-28",
+  "trending_claim": "The US and China published product lists for $30B of tariff relief each way — 77 US-side tariff entries and 1,619 goods entering China — with USTR Jamieson Greer claiming improved access for about 30% of US exports to China and China agreeing to buy at least 10 million metric tons of US coal annually in 2027 and 2028.",
+  "verdict": "accurate",
+  "rating_explained": "The story asserts both governments published tariff-cut product lists covering $30B each direction. Reuters (Liz Lee, Beijing, Sept 28) confirms: under the US-China Board of Trade both countries 'each recommended $30 billion of trade in non-sensitive goods for more favourable tariff treatment,' Greer described it as 'unlocking improved market access' for about 30% of US exports to China, one White House list showed China trimming duties on corn, wheat, sorghum, meat, dairy, fish, logs and medical devices, and the second list showed US reciprocal cuts on 77 Chinese product categories including small appliances, toys and fireworks. Reuters also confirms the White House's stated commitment for China to import '10 million metric tons of coal annually from the United States in 2027 and 2028.' The framework notes cuts take effect only after each side's domestic legal procedures and that no specific rates or timetable were set — the article reports exactly that. No established fact-checker has rated this claim.",
+  "sources": [
+   {
+    "name": "Reuters (By Liz Lee, Beijing, Sept 28)",
+    "url": "https://wixx.com/2026/09/27/china-says-us-trade-truce-extension-creates-space-to-advance-talks/"
+   },
+   {
+    "name": "BizzBuzz (USTR Greer statement)",
+    "url": "https://www.bizzbuzz.news/international/us-china-tariff-plan-covers-30-billion-each-way-1407606"
+   }
+  ],
+  "trending_context": "Published today, Sept 28, 2026, on the Bloomberg wire; the tariff-deal details (White House fact sheet released late Friday Sept 25) are being simultaneously reported by WSJ, NY Post, and Seoul Economic Daily.",
+  "order": 13
+ },
+ {
+  "id": "T14",
+  "headline": "VLO, MPC, PSX Stocks, Diesel Futures Climb Overnight: Trump Says US 'Very Seriously' Considering Diesel Export Ban",
+  "outlet": "Stocktwits",
+  "article_url": "https://stocktwits.com/news-articles/markets/equity/vlo-mpc-psx-stocks-diesel-futures-climb-overnight-trump-says-us-very-seriously-considering-diesel-export-ban/cZMSSFGRBfN",
+  "published": "2026-09-28",
+  "trending_claim": "Trump said on Sunday, Sept 27, in response to a Fox News reporter's question, that the US is 'thinking about it very seriously' regarding a diesel export ban; the piece also cites Politico's reporting that Energy Secretary Chris Wright, Treasury Secretary Scott Bessent, and Interior Secretary Doug Burgum oppose a ban.",
+  "verdict": "accurate",
+  "rating_explained": "The story's central claim is that Trump said he is 'very seriously' considering a diesel export ban. Bloomberg (Sept 28) confirms Trump 'said he is still looking very seriously at implementing a US ban on diesel exports to combat high prices,' quoting him directly: 'That can oftentimes lead to a little bit of an increase on gasoline for cars, so we're looking at it very seriously — we may do it,' told to a Fox News reporter Sunday at the Presidents Cup final near Chicago. Bloomberg also confirms farm-state lawmakers are urging curbs and that Kevin Hassett, Bessent and Greer have been analyzing a short-term ban. The NY Post (Sept 23), citing Politico, confirms the second element: Politico reported Wright, Bessent and Burgum 'have all voiced internal objections to a total ban,' and that Wright said Wednesday he favors voluntary limits instead ('We are trying to avoid a blunt hammer of a government policy'). The AAA gas-price figure ($4.4798/gal) cited as background could not be independently verified from an opened source, but it is peripheral context, not the central claim. No established fact-checker has rated this claim.",
+  "sources": [
+   {
+    "name": "Bloomberg (via BusinessLine, Sept 28)",
+    "url": "https://www.thehindubusinessline.com/markets/commodities/trump-says-us-is-very-seriously-considering-diesel-export-ban-to-tackle-high-prices/article71518133.ece/amp/"
+   },
+   {
+    "name": "New York Post (Sept 23, on Politico report and Wright opposition)",
+    "url": "https://nypost.com/2026/09/23/business/us-energy-secretary-chris-wright-rejects-diesel-exports-ban/"
+   }
+  ],
+  "trending_context": "Published within the last ~12 hours; refiner stocks (Valero, Marathon, Phillips 66) and diesel futures moved overnight on the remarks, and multiple outlets (Maltese Herald, Stock Market Watch) are covering the Sunday comments this morning.",
+  "order": 14
+ },
+ {
+  "id": "T15",
+  "headline": "Trump Says He Is Lowering Beef Prices. His Immigration Crackdown Just Slowed the Slaughterhouses",
+  "outlet": "AllenAnalysis (Substack)",
+  "article_url": "https://theallenanalysis.substack.com/p/trump-says-he-is-lowering-beef-prices",
+  "published": "2026-09-27",
+  "trending_claim": "A federal immigration enforcement operation in southwest Kansas frightened workers away from slaughterhouses and dairies, slowing or temporarily stopping some beef plants, as USDA estimated national cattle slaughter fell to 90,000 head Thursday Sept 24 (16% fewer than a week earlier) and 87,000 Friday (14% fewer) — while the White House says its beef-import expansion will lift supply about 10%.",
+  "verdict": "accurate",
+  "rating_explained": "The story asserts ICE operations in southwest Kansas slowed meatpacking. The Associated Press (Heather Hollingsworth and Valerie Gonzalez, Sept 25) confirms: the Texas Cattle Feeders Association, Oklahoma Cattlemen's Association and Kansas Livestock Association said ICE operations prompted delays in shipping thousands of cattle, costing producers millions; Kansas Livestock Association's Scarlett Mabinger said members reported increased absences and some plants 'had to shut down temporarily and send cattle back to feedlots'; DHS confirmed agents were present but said they were not conducting worksite raids, with Secretary Mullin saying ICE targeted 'heinous criminals.' Reuters (Tom Polansek, Sept 25) independently confirms agents 'fanned out across southwest Kansas,' that 'the prospect of arrest kept much of the largely immigrant labor force away from work, forcing beef processing plants to slow down and backing up cattle,' and that agents stopped motorists to ask about citizenship around Dodge City, Liberal and Garden City. DTN, citing USDA daily slaughter reports, confirms Thursday slaughter was down nearly 16% and Wednesday down 9% — consistent with the article's USDA figures (Thursday 90,000/16% fewer; Friday 87,000/14% fewer; day-to-day variation across national estimates is normal). The piece also includes DHS's counter-account and explicit caveats that the price impact is not yet established — it does not overclaim. No established fact-checker has rated this claim.",
+  "sources": [
+   {
+    "name": "Associated Press (via LA Post, Sept 25)",
+    "url": "https://www.lapost.com/content/meatpacking-groups-say-ice-arrests-could-lead-to-higher-prices-and-revenue-loss"
+   },
+   {
+    "name": "Reuters (Tom Polansek, via SRN News, Sept 25)",
+    "url": "https://srnnews.com/us-immigration-crackdown-hits-kansas-disrupts-beef-processing/"
+   },
+   {
+    "name": "DTN (USDA daily slaughter figures)",
+    "url": "https://www.dtnpf.com/agriculture/web/ag/news/business-inputs/article/2026/09/25/ice-enforcement-hampers-beef-packing"
+   }
+  ],
+  "trending_context": "Published Sept 27 and synthesizing same-week reporting from AP (via Fortune), Reuters, the Midwest Newsroom/Kansas News Service, and Kansas livestock associations; the Kansas operation story is being covered across national and regional outlets this weekend.",
+  "order": 15
+ },
+ {
+  "id": "T16",
+  "headline": "Trump raises eyebrows as he claims US has 'best poverty numbers'",
+  "outlet": "indy100",
+  "article_url": "https://www.indy100.com/politics/trump/trump-poverty-numbers-rate-statistics",
+  "published": "2026-09-27",
+  "trending_claim": "On his way to the Presidents Cup on Sept. 27, Trump told reporters 'we have the best poverty numbers ever in the history of our country,' meaning less poverty now than at any time in US history.",
+  "verdict": "accurate",
+  "rating_explained": "The story asserts Trump said the words 'we have the best poverty numbers ever in the history of our country.' Multiple outlets confirm the remark: PrimeTimer quotes the same Sept 27 quote ('We have the best, I guess you could say poverty... We have the best poverty numbers ever in the history of our country'), and the full statement quoted by WebIndia123 adds 'there's less poverty now than at any time in the history of our country.' Crucially, the underlying statistic Trump cited is supported by official data: Reuters (Ahmed Aboulenein and Lucia Mutikani, Sept 15) reported the Census Bureau found the official US poverty rate fell to 10.2% in 2025, 'the lowest on record,' with child poverty at a historic low of 13.4% and median household income at a record $87,460 — and the indy100 piece itself concedes this, quoting the Census data and the AEI's analysis that the official rate fell 'from 10.7 to 10.2 percent — the lowest level in recorded history.' The article also carries the standard expert caveat (UChicago's Steven Durlauf via Stateline; WaPo via The Mary Sue) that the 2025 figures precede 2026 safety-net changes and that the supplemental poverty measure was unchanged at 13.1%. So the piece's central claim — Trump made the claim and the official Census numbers back it — is factually correct; its mockery targets the awkward phrasing ('best poverty'), not a falsehood. No established fact-checker has rated this claim.",
+  "sources": [
+   {
+    "name": "Reuters (Sept 15, Census Bureau poverty data)",
+    "url": "https://www.lapost.com/content/us-poverty-rate-dips-to-lowest-on-record-census-bureau-says"
+   },
+   {
+    "name": "American Enterprise Institute (poverty-data analysis)",
+    "url": "https://www.aei.org/commentary/understanding-the-downbeat-coverage-of-encouraging-poverty-data/"
+   },
+   {
+    "name": "PrimeTimer (Trump quote confirmation)",
+    "url": "https://www.primetimer.com/news/yay-poverty-we-win-the-poverty-contest-michael-maren-reacts-to-trump-bragging-we-have-the-best-poverty-numbers-in-history-of-us"
+   }
+  ],
+  "trending_context": "Video of the awkward phrasing went viral on X after journalist Aaron Rupar posted the clip, with director Michael Maren mocking it on Threads ('Yay poverty! We win the poverty contest'); the story was clustered on Google News alongside The Hill and AOL coverage.",
+  "order": 16
+ },
+ {
+  "id": "T17",
+  "headline": "Heckler Interrupts Trump at Presidents Cup: 'You're a F****** Ped****** Donald Wooooo'",
+  "outlet": "The Source",
+  "article_url": "https://thesource.com/2026/09/27/heckler-interrupts-trump-at-presidents-cup-youre-a-f-ped-donald-wooooo/",
+  "published": "2026-09-27",
+  "trending_claim": "During Trump's remarks at Medinah Country Club on Sept. 27, a spectator shouted a profanity-laced accusation at him, widely interpreted online as 'you're a f***ing pedophile.'",
+  "verdict": "mostly-accurate",
+  "rating_explained": "The story asserts a heckler interrupted Trump's Presidents Cup remarks with a profanity-laced accusation. Multiple outlets confirm the incident: Raw Story reported a spectator shouted what online circulators interpreted as 'a fucking pedophile'; OK Magazine reported the heckler screamed 'You're a f------ p--------, Donald!' during the live broadcast; a particle.news aggregation of multi-outlet coverage confirms vocal crowd reactions including at least one heckler interrupting his appearance at Medinah. However, no outlet independently verified the exact words: Dagens explicitly notes 'No official transcript has established the precise wording,' that 'media reports examining the footage have similarly cautioned that the exact phrase has not been independently verified,' and that 'nothing presented in connection with the incident substantiates the accusation contained in the insult.' The Source's body text is appropriately careful ('shouted a profane accusation'), and the 'widely interpreted' framing matches how peer outlets described it — but its headline presents one interpretation of the audio in quote form as the definitive wording, which goes beyond what any outlet could verify. Hence mostly-accurate rather than fully accurate. No established fact-checker (Snopes, PolitiFact, FactCheck.org, Reuters/AP Fact Check) has rated this claim as of my checks.",
+  "sources": [
+   {
+    "name": "Dagens (Sept 28)",
+    "url": "https://www.dagens.com/news/caught-on-camera-heckler-makes-countless-people-turn-against-trump"
+   },
+   {
+    "name": "OK Magazine (Sept 27)",
+    "url": "https://okmagazine.com/p/donald-trump-heckled-live-tv-watch/"
+   },
+   {
+    "name": "particle.news (multi-outlet aggregation)",
+    "url": "https://particle.news/story/trump-appears-at-presidents-cup-and-gives-brief-remarks-as-security-is-tightened"
+   }
+  ],
+  "trending_context": "The clip raced across X after right-wing influencer Breck Worsham shared it calling the heckler 'my hero'; covered by The Source, Raw Story, IBTimes, Times of India, and Dagens, though outlets caution the exact wording was never independently verified.",
+  "order": 17
+ },
+ {
+  "id": "T18",
+  "headline": "Blanche says 'one-sided news' is a national security issue worthy of barring press",
+  "outlet": "CNN",
+  "article_url": "https://www.cnn.com/2026/09/27/politics/todd-blanche-white-house-press-ban?cid=external-feeds_iluminar_meta",
+  "published": "2026-09-27",
+  "trending_claim": "AG Todd Blanche defended Trump's ban on CNN, MS NOW and Politico, telling ABC's This Week that 'one-sided news' from those outlets is a national security problem justifying barring them from the White House and Air Force One.",
+  "verdict": "accurate",
+  "rating_explained": "The story asserts Blanche said 'one-sided' news is a national-security problem severe enough to bar press from the White House and Air Force One. Media Confidential's transcript coverage confirms Blanche told ABC's This Week: 'By the way, that is what is a national security problem. When you have completely misinformation, complete misinformation coming out of the White House, that affects our relationship with our foreign partners. That affects our relationship with our foreign enemies,' in defense of the administration's effort to revoke access for CNN, MS NOW and Politico. The court-order context is confirmed by the Wall Street Journal: US District Judge Timothy Kelly ordered the administration to temporarily restore the outlets' credentials, finding the revocation was likely done without 'constitutionally adequate due process,' describing the cited articles as 'routine,' and finding officials offered 'little to back up their asserted national security interest.' A second WSJ piece confirms the White House nonetheless removed CNN from the Tennessee-trip TV pool rotation on the weekend in question. The story's account of both Blanche's remarks and the judge's ruling matches these named sources. No established fact-checker has rated this claim.",
+  "sources": [
+   {
+    "name": "Wall Street Journal (Kelly order, Sept 24/25)",
+    "url": "https://www.wsj.com/politics/policy/judge-orders-trump-to-lift-ban-on-cnn-ms-now-politico-475e56d4"
+   },
+   {
+    "name": "Wall Street Journal (CNN barred from Air Force One pool)",
+    "url": "https://www.wsj.com/politics/policy/white-house-removes-cnn-from-planned-weekend-trip-7c7d6455"
+   },
+   {
+    "name": "Media Confidential (ABC This Week transcript excerpts)",
+    "url": "http://mediaconfidential.blogspot.com/2026/09/ag-blanche-one-sided-news-is-national.html"
+   }
+  ],
+  "trending_context": "Leading Sunday political story: Blanche's ABC interview followed a Trump-appointed judge (Timothy Kelly) ordering the administration to restore the outlets' credentials, writing the ban lacked 'constitutionally adequate due process'; widely covered across outlets.",
+  "order": 18
+ },
+ {
+  "id": "T19",
+  "headline": "'TRUMP-ENDORSED' VANISHES: Florida GOP Nominee Quietly Strips President From Homepage as Race Tightens",
+  "outlet": "Chronology (allchronology.com)",
+  "article_url": "https://allchronology.com/2026/09/27/trump-endorsed-vanishes-florida-gop-nominee-quietly-strips-president-from-homepage-as-race-tightens/",
+  "published": "2026-09-27",
+  "trending_claim": "Byron Donalds' campaign removed at least eight prominent Trump references (banner, donation button, photo, 'Enact the Trump Agenda') from his homepage in a redesign, while Trump called the reporting 'Another Fake Story' and announced two Florida rallies with Donalds.",
+  "verdict": "accurate",
+  "rating_explained": "The story asserts Donalds' site was redesigned with at least eight prominent Trump references removed. Newsmax (Sept 26) confirms the underlying website changes occurred: 'At least eight references to Trump were removed from the homepage during a recent redesign,' including the earlier 'Trump-endorsed Proven Conservative Fighter' headline, the photo of Donalds and his wife with Trump, and 'Enact the Trump Agenda' among campaign priorities; Trump's endorsement remains on a separate endorsements page. Reporting via the Miami Herald (cited by Newsmax) and Visualping's archived-site analysis confirms the removals, while the Tampa Bay Times confirms the redesign dropped the Trump photo and 'Enact the Trump Agenda,' and quotes Donalds calling it 'a stupid story.' Trump did call the reports a 'Fake Story': Newsmax quotes his Truth Social post — 'Another Fake Story is that a very close friend of mine, a man I endorsed very early, Byron Donalds, is taking me off his website and Campaign materials' — and confirms he said two Florida rallies for Donalds were scheduled and predicted they would be 'SOLD OUT!' The St. Pete Polls tie (Donalds 43.5%, Jolly 43.4%, Sept 15-17, 913 likely voters) is confirmed by the same sources. The article also hedges fairly: 'That does not necessarily mean Donalds has broken with Trump. There is no evidence that he has withdrawn his support.' No established fact-checker has rated this claim.",
+  "sources": [
+   {
+    "name": "Newsmax (Sept 26, Trump 'Fake Story' post and website changes)",
+    "url": "https://www.newsmax.com/newsfront/trump-donalds-hits/2026/09/26/id/1270803"
+   },
+   {
+    "name": "Tampa Bay Times (Sept 26, Donalds responds)",
+    "url": "https://tampabaytimes-tampa-bay-times.cdn.zephr.com/news/florida-politics/elections/2026/09/26/trump-byron-donalds-jd-vance-rally-governor-lakeland/"
+   },
+   {
+    "name": "Newsmax (Sept 22, Miami Herald/Visualping reporting)",
+    "url": "https://www.newsmax.com/politics/byron-donalds-david-jolly-donald-trump/2026/09/22/id/1270325"
+   }
+  ],
+  "trending_context": "Trump's 449-word Truth Social denial on Sept. 26 drove the story; the Miami Herald and website-tracking firm Visualping documented the removed references via archived versions, and the race is tight (St. Pete Polls: Donalds 43.5%, Jolly 43.4%).",
+  "order": 19
+ },
+ {
+  "id": "T20",
+  "headline": "Donald Trump Was Booed at the Texas-Tennessee Football Game",
+  "outlet": "Thought Catalog",
+  "article_url": "https://thoughtcatalog.com/january-nelson/2026/09/donald-trump-was-booed-at-the-texas-tennessee-football-game/",
+  "published": "2026-09-27",
+  "trending_claim": "Trump was loudly booed by the Neyland Stadium crowd when introduced on the jumbotron during the Sept. 26 Texas-Tennessee game, though some cheers were also audible.",
+  "verdict": "mixed",
+  "rating_explained": "The story asserts 'boos rang through Neyland Stadium' after Trump's jumbotron introduction, 'though some cheers were also audible.' The booing is corroborated: People magazine reported Trump 'was loudly booed by some fans at Neyland Stadium when he appeared on the Jumbotron, as captured in video footage shared on social media,' and the Daily Beast reported 'a roar of boos audible over scattered applause.' However, the characterization of boos as dominant is contested by reporters who were in the stadium: the Houston Chronicle, the Austin American-Statesman and OutKick described applause and cheers; WVLT reporter Will Puckett described 'smattering of cheers and boos alike'; Breitbart reported 'a roar of approval'; and PBS relayed 'cheers' from a text pool report. USA Today's For The Win assessed the booing claim: 'It doesn't appear so, at least not loudly.' An independent audit of 23 source documents (thestochasticparrot.com, Sept 27) concluded the question is contested: no recording settles which account is accurate, and wire outlets (AP, Reuters, The Hill, Guardian, HuffPost) declined to characterize the crowd at all. So the article's headline claim is half-right: booing did occur and is documented, but the evidence does not support presenting it as the stadium's dominant response — cheers were also audible and possibly comparable. No established fact-checker (Snopes, PolitiFact, FactCheck.org, Reuters/AP Fact Check) has rated this claim.",
+  "sources": [
+   {
+    "name": "People magazine (booing confirmed)",
+    "url": "https://people.com/trump-booed-tennessee-texas-football-game-12138722"
+   },
+   {
+    "name": "USA Today For The Win (booing doubted)",
+    "url": "https://ftw.usatoday.com/story/sports/ncaaf/2026/09/26/who-is-donald-trump-sitting-with-texas-tennessee-college-football/91956934007/"
+   },
+   {
+    "name": "Independent 23-source audit (contested verdict)",
+    "url": "https://thestochasticparrot.com/audits/trump-booed-college-football"
+   }
+  ],
+  "trending_context": "A trending partisan dispute: the Daily Beast reported 'a roar of boos audible over scattered applause' while Breitbart reported 'a roar of approval' for the same moment; an independent audit catalogued 23 sources on the contradiction.",
+  "order": 20
+ },
+ {
+  "id": "T21",
+  "headline": "Natalie Harp Pulls Trump's Attention to Laptop During Sold-Out Tennessee-Texas Game",
+  "outlet": "Chronology (allchronology.com)",
+  "article_url": "https://allchronology.com/2026/09/27/natalie-harp-pulls-trumps-attention-to-laptop-during-sold-out-tennessee-texas-game/",
+  "published": "2026-09-27",
+  "trending_claim": "During the Sept. 26 Tennessee-Texas game, Trump's executive assistant Natalie Harp held up a laptop that pulled Trump's attention away from the field, with Trump leaning across Sen. Bill Hagerty to look at the screen.",
+  "verdict": "accurate",
+  "rating_explained": "The story asserts Reuters photographs show Harp holding up a laptop for Trump and Hagerty to see, with Trump leaning across Hagerty for a closer look. The named-source evidence confirms this exactly: a Reuters photo by Jonathan Ernst is captioned 'US president Donald Trump looks at a laptop held by his executive assistant Natalie Harp alongside Tennessee senator Bill Hagerty during the Tennessee-Texas game at Neyland Stadium' (republished by People magazine's coverage). An AP photo by Julia Demaree Nikhinson shows the same scene: 'White House aide Natalie Harp, left, holds up a laptop for Trump, right, and Sen. Bill Hagerty, R-Tenn., center, during the game.' The article's 'human printer' background on Harp is attributed to the Washington Post, which reported she frequently supplies Trump with printed news stories and posts to his Truth Social account — corroborated by reporting on her official role as special assistant/executive assistant and the 'human printer' nickname. Crucially, the article does not overreach: it states plainly 'what exactly was on the screen remains unknown,' 'there is no reliable basis for answering that question,' and 'anything beyond that would be guesswork.' The factual claim checks out and the speculation is explicitly withheld, so despite the sensational headline framing, the piece's central claim is accurate. No established fact-checker has rated this claim.",
+  "sources": [
+   {
+    "name": "Reuters photo (Jonathan Ernst, via europesays)",
+    "url": "https://www.europesays.com/people/244106/"
+   },
+   {
+    "name": "AP photo (Julia Demaree Nikhinson, via europesays)",
+    "url": "https://www.europesays.com/football/66944/"
+   }
+  ],
+  "trending_context": "Reuters photographs of the moment went viral online, amplified by a Times of India video and Daily Beast coverage of Harp ('human printer'); the article itself notes what was on the screen is unknown and speculation is guesswork.",
+  "order": 21
+ }
+]
