@@ -41,13 +41,14 @@ VERDICTS = {
     "accurate":        ("Accurate", "#22c55e"),
     "mostly-accurate": ("Mostly accurate", "#a3e635"),
     "mixed":           ("Mixed", "#fbbf24"),
+    "unverifiable":    ("Unverifiable", "#94a3b8"),
     "misleading":      ("Misleading", "#fb923c"),
     "false":           ("False", "#ef4444"),
     "no-claim":        ("Opinion — no checkable claim", "#9ca3af"),
 }
-VERDICT_ORDER = ["accurate", "mostly-accurate", "mixed", "misleading", "false", "no-claim"]
-SEVERITY = {"false": 0, "misleading": 1, "mixed": 2,
-            "mostly-accurate": 3, "accurate": 4, "no-claim": 5}
+VERDICT_ORDER = ["accurate", "mostly-accurate", "mixed", "unverifiable", "misleading", "false", "no-claim"]
+SEVERITY = {"false": 0, "misleading": 1, "mixed": 2, "unverifiable": 3,
+            "mostly-accurate": 4, "accurate": 5, "no-claim": 6}
 
 STORY_REQUIRED = ["id", "headline", "outlet", "article_url",
                   "trending_claim", "verdict", "rating_explained", "sources"]
@@ -232,7 +233,7 @@ FOOTER = """<footer class="site"><div class="wrap">
 HOW = """<div class="how" id="how"><h2>How we rate</h2>
 <ul>
 <li><strong style="color:#fff">What this site is.</strong> Every day we collect the most-trending claims about President Trump — actions attributed to him, quotes attributed to him — largely from outlets critical of him, and check each claim against named, published sources.</li>
-<li><strong style="color:#fff">What we check.</strong> The central factual claim: did he do it, say it, order it? "Why this rating" walks through the evidence step by step, with the key numbers, dates, and quotes. Pure opinion pieces with no checkable factual claim get "Opinion — no checkable claim" instead of a fake verdict.</li>
+<li><strong style="color:#fff">What we check.</strong> The central factual claim — and we check whether it is actually true, not merely whether someone said it. "X says Y happened" proves only that X said it. A claim earns "Accurate" only when the underlying event is confirmed by direct evidence: primary documents, official records, direct video or audio, on-the-ground wire reporting. When the core assertion can neither be confirmed nor denied, it gets "Unverifiable" — never a guess. "Why this rating" walks through the evidence step by step, with the key numbers, dates, and quotes. Pure opinion pieces with no checkable factual claim get "Opinion — no checkable claim" instead of a fake verdict.</li>
 <li><strong style="color:#fff">Honest verdicts, both directions.</strong> A biased outlet can still report facts accurately — when the claim holds up, it gets "Accurate", full stop. The mission is what's factual and what isn't, not debunking everything. We don't infer motives, and when sources disagree or something is unknown, we say so.</li>
 <li><strong style="color:#fff">Read the original.</strong> Every story links the original article so you can check our work.</li>
 </ul></div>"""
