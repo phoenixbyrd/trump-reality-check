@@ -1,0 +1,926 @@
+[
+ {
+  "outlet": "GoGoSpoiler",
+  "headline": "Fact Check: Did Trump clash with a reporter over the six-month Iran war?",
+  "article_url": "https://gogospoiler.com/fact-check/fact-check-did-trump-clash-with-a-reporter-over-the-six-month-iran-war/",
+  "published": "2026-09-28",
+  "trending_context": "InfoGram's September 27 X post circulated the fabricated dialogue as a real confrontation; GoGoSpoiler published its fact check on September 28 documenting the clip's 'Satire' label and the account's satire bio. Note: the X post itself could not be opened directly (X blocked), so the label/bio evidence is documented via the fact-check investigations, and no major fact-checker has yet covered this specific video.",
+  "trending_claim": "A viral video purports to show Trump in a heated exchange with a reporter over the six-month US-Iran war: the journalist says 'You have been at war with Iran for six months now,' Trump answers 'Well, we were in Vietnam for 21 years,' then calls the journalist a 'fake reporter' and orders them out. (X post by InfoGram @_InfoGram_, September 27, 2026.)",
+  "verdict": "false",
+  "rating_explained": "This confrontation never happened, and the evidence is affirmative rather than a mere absence of confirmation. The clip is constructed from a motionless still photograph of Trump standing at a podium, and it carries a visible 'Satire' label — the video declares its own fictionality. The originating account, InfoGram, labels its content 'satire commentary' in its X biography and has a documented history of manufacturing fabricated Trump political exchanges for engagement, including a companion fake claiming former CIA Director David Petraeus called Trump a 'liar' over the Iran war. No White House briefing transcript, wire-service report, or verified audio-visual recording contains the 'Vietnam' or 'fake reporter' dialogue. Genuine Trump–reporter exchanges on the Iran war — such as his real 'What a stupid question that is' reply to a nuclear-strike question, documented by established outlets — show what real ones look like; this one exists only as labeled satire. Presenting it as a real event is false.",
+  "sources": [
+   {
+    "name": "GoGoSpoiler, 'Fact Check: Did former CIA director call Trump a 'liar' over his claims about Iran war?'",
+    "url": "https://gogospoiler.com/fact-check/fact-check-did-former-cia-director-call-trump-a-liar-over-his-claims-about-iran-war/"
+   },
+   {
+    "name": "InShorts (via Moneycontrol), 'What a stupid question: Trump after reporter asks about nuclear strike on Iran'",
+    "url": "https://inshorts.com/en/amp_news/what-a-stupid-question--trump-after-reporter-asks-about-nuclear-strike-on-iran-1788235812706"
+   }
+  ],
+  "id": "T01",
+  "order": 1
+ },
+ {
+  "outlet": "CNN",
+  "headline": "Fact check: Trump lies again that grocery prices 'have come way down' this term",
+  "article_url": "https://www.cnn.com/2026/09/28/politics/fact-check-trump-grocery-prices?cid=external-feeds_iluminar_meta",
+  "published": "2026-09-28",
+  "trending_context": "Trump made the remarks to reporters on September 27; CNN's fact check landed September 28 with a full CPI breakdown. It continues a months-long pattern of Trump claiming broad deflation during this presidency, amid poor inflation polling as the midterms approach.",
+  "trending_claim": "Trump told reporters on Sunday, September 27: 'The prices for groceries have come way down from Biden. Almost every price has come way down,' adding 'With the exception of oil, everything is going down.'",
+  "verdict": "false",
+  "rating_explained": "Federal Consumer Price Index data directly contradicts the claim. Grocery prices (food at home) are up 3.4% on average since January 2025, the month Trump took over from Biden, through August 2026 — not 'way down' — while overall consumer prices are up 4.8% over the same period. Five of the six CPI grocery categories are up substantially: cereals and bakery products (+3.3%), meats, poultry, fish and eggs (+3%), fruits and vegetables (+4.6%), nonalcoholic beverages (+6.3%), and other food at home (+3%); only dairy is roughly flat. Trump has repeatedly touted eggs, which are down 31.1% after an avian-flu spike at the end of Biden's term, but eggs are an outlier — no other product or category has fallen even a third as much. Coffee is up 21.8% and beef and veal up 16.5%. His companion claims fail too: year-over-year inflation was 3% in January 2025 and 3.4% in both July and August 2026 — higher now than what he inherited, not lower — and with a historical peak of 23.7%, he did not inherit 'the worst inflation in the history of our country.' Independent BLS-based reporting from Morningstar and the Providence Journal confirms the 3.4% annual CPI rate and rising food, energy, shelter, and vehicle costs.",
+  "sources": [
+   {
+    "name": "Morningstar, 'August CPI Report Shows Inflation at a 3.4% Annual Rate, Above Forecasts'",
+    "url": "https://www.morningstar.com/economy/august-cpi-report-shows-inflation-34-annual-rate-above-forecasts"
+   },
+   {
+    "name": "The Providence Journal, 'Inflation increased in August. How much more you may be paying for eggs, gasoline'",
+    "url": "https://www.providencejournal.com/story/business/finance/2026/09/14/how-much-more-you-may-be-paying-for-gas-personal-care-used-cars-inflation-august-2026-consumer-price/91755535007/"
+   }
+  ],
+  "id": "T02",
+  "order": 2
+ },
+ {
+  "outlet": "MEAWW",
+  "headline": "Fact Check: Did Trump say Americans will not be able to eat if Democrats win in 2026 midterms?",
+  "article_url": "https://news.meaww.com/fact-check-did-trump-say-americans-will-not-be-able-to-eat-if-democrats-win-in-2026-midterms",
+  "published": "2026-09-29",
+  "trending_context": "Hakimian's September 29 X post framed three-month-old remarks as breaking news and gathered 5,000+ views within minutes; MEAWW and GoGoSpoiler each published same-day fact checks documenting the June 26 origin.",
+  "trending_claim": "\"JUST IN: Trump says you will not be able to eat food anymore if Democrats win in November.\" (X post by Spencer Hakimian on September 29; 5,000+ views within minutes.)",
+  "verdict": "false",
+  "rating_explained": "The 'no food' line is a genuine Trump quote, but the viral post's presentation of it is false in two material ways. First, it is not 'JUST IN': the words come from Trump's June 26, 2026 address to the Faith and Freedom Coalition's Road to Majority conference — three months before the post. Second, the context is entirely different from what the post implies. The official Senate transcript shows Trump was riffing on communism: after calling Democratic-socialist primary winners in New York 'hardcore, godless communists,' he described what he claimed would follow if such ideologies took hold — 'after two or three years, the country is a disaster area... You'll start living in squalor. There will be no food; there will be no housing; there will be no military; there will be no law and order.' He never said a Democratic midterm victory would stop Americans from eating food. The post lifted a three-month-old anti-communism riff and repackaged it as a brand-new threat about November's midterms. Because the attribution is real but the 'when,' 'what,' and 'about whom' are all wrong, the claim as stated is false.",
+  "sources": [
+   {
+    "name": "U.S. Senate Democrats, 'TRANSCRIPT: President Trump Addresses the Faith and Freedom Coalition Conference, 6.26.26'",
+    "url": "https://www.democrats.senate.gov/newsroom/trump-transcripts/transcript-president-trump-addresses-the-faith-and-freedom-coalition-conference-62626"
+   },
+   {
+    "name": "GoGoSpoiler, 'Fact Check: Did Trump say Americans will not be able to eat if Democrats win in 2026 midterms?'",
+    "url": "https://gogospoiler.com/fact-check/fact-check-did-trump-say-americans-will-not-be-able-to-eat-if-democrats-win-in-2026-midterms/"
+   }
+  ],
+  "id": "T03",
+  "order": 3
+ },
+ {
+  "outlet": "Dagens",
+  "headline": "Leaked military memo reveals Trump is preparing the US Army for a Cuba invasion",
+  "article_url": "https://www.dagens.com/news/leaked-military-memo-reveals-trump-is-preparing-the-us-army-for-a-cuba-invasion",
+  "published": "2026-09-28",
+  "trending_context": "Based on CBS News' review of the memo; widely picked up across outlets and September 28 news roundups.",
+  "trending_claim": "A leaked internal Army Reserve message — which names no country and orders no deployments — shows President Trump is preparing the U.S. Army for an invasion of Cuba.",
+  "verdict": "misleading",
+  "rating_explained": "Dagens' headline asserts that a leaked internal Army memo reveals President Trump is preparing the U.S. Army for a Cuba invasion. The document CBS News reviewed on September 25 is an Army Reserve headquarters message asking subordinate commands for feedback, due September 25, on possible availability of six unit types (military police, medical, engineer, and logistics formations) for U.S. Southern Command within 90-120 days. Every outlet covering the story agrees the document never mentions Cuba, names no troop numbers or destination, specifies no operation, and contains no deployment orders; the Cuba link rests entirely on unnamed U.S. officials who told CBS the request is tied to continued Cuba planning. On September 26, Trump himself told White House reporters he did not believe the U.S. military would be needed and that 'Cuba and us will make a deal,' and a Southern Command spokesperson declined to confirm specifics, citing operational security. Because the memo itself names no country and issues no orders, the claim that it 'reveals' invasion preparation is not what the document shows: the verified core is a readiness inquiry for Southern Command, while the 'invasion' framing is an inference from anonymous officials. The story mixes real reporting with unsupported framing, so it is misleading rather than accurate — but not false, since CBS's anonymously sourced account of Cuba-directed contingency planning has not been contradicted.",
+  "sources": [
+   {
+    "name": "Times News NG (verbatim reprint of the original CBS News article 'Army Reserve Weighs Support Units as Trump Says Cuba Deal Likely')",
+    "url": "https://timesng.com/32377.html"
+   },
+   {
+    "name": "LiveMint — 'US Army plans for possible Cuba operation' (independent outlet, corroborating memo contents and caveats)",
+    "url": "https://www.livemint.com/news/us-news/us-army-plans-for-possible-cuba-operation-police-medical-units-could-be-ready-within-120-days-report-11790345861778.html"
+   },
+   {
+    "name": "Unbiased Headlines — 'Army Reserve Weighs Sending Police and Medical Units Toward Cuba' (corroborates memo details, Southern Command statement, Trump/Rubio/Cuban official remarks)",
+    "url": "https://unbiasedheadlines.com/article/army-reserve-weighs-sending-police-and-medical-units-toward-cuba-as-trump-renews-regime-change-talk"
+   }
+  ],
+  "id": "T04",
+  "order": 4
+ },
+ {
+  "outlet": "MEAWW",
+  "headline": "Fact Check: Is Trump banning federal loans for students in low-earning college majors?",
+  "article_url": "https://news.meaww.com/fact-check-is-trump-banning-federal-loans-for-students-in-low-earning-college-majors",
+  "published": "2026-09-29",
+  "trending_context": "The New Republic's September 28 X post promoting its July/August article 'Trump Moves to Cut Off Student Loans for Tons of Degrees' drew more than 20 million views; FactPost's September 28 list post (social work, teaching aides, cosmetology, culinary arts, music, art, English literature, film, religious studies) and other users amplified it. The U.S. Department of Education responded on X the same day calling it 'fake news,' fueling a second wave of debate.",
+  "trending_claim": "Trump is banning students majoring in degrees that don't make enough money from taking out college loans; degrees for social work, art, religious studies, teaching aides, and music will be hit the hardest. (The New Republic's September 28 X post, 20M+ views, amplified by FactPost and others.)",
+  "verdict": "misleading",
+  "rating_explained": "The viral 'ban' framing materially misstates how the policy works, but it is built on a real rule — so 'false' would overstate the case the other way. The Education Department finalized an earnings-accountability rule (the 'Do No Harm' test, implementing provisions of the One Big Beautiful Bill Act): undergraduate programs whose graduates' median earnings fall below those of typical high-school-diploma holders aged 25–34 — measured via IRS data four years after graduation — in two of three consecutive years lose access to federal Direct Loans; graduate programs face a higher benchmark against bachelor's-degree holders. The earliest penalties land in the 2028–29 academic year, and no program or major is 'banned' — students may still enroll, and the federal government does not set curricula, as the Education Department stressed in its September 28 X post calling the claim 'fake news.' Yet the functional consequence the viral posts point to is real: Inside Higher Ed and The Source confirm programs that fail the test do lose federal Direct Loan eligibility, which can put affected degrees out of reach for students who depend on federal borrowing. 'Trump is banning students' turns a program-level accountability mechanism into a student-level ban, which is why the honest rating is misleading rather than outright false.",
+  "sources": [
+   {
+    "name": "The Source, 'Thank Trump: In 2027 \"If Your Degree Doesn't Make Enough Money\" You Won't Get Federal Student Loans'",
+    "url": "https://thesource.com/2026/09/28/thank-trump-in-2027-if-your-degree-doesnt-make-enough-money-you-wont-get-federal-student-loans/"
+   },
+   {
+    "name": "Inside Higher Ed, 'How Soon Could Colleges Lose Loan Access?'",
+    "url": "https://www.insidehighered.com/news/government/student-aid-policy/2026/07/20/how-soon-could-colleges-lose-loan-access?ref=readtangle.com"
+   },
+   {
+    "name": "Feminegra, 'Trump's New College Rule Could Make Social Work and Arts Degrees a Luxury'",
+    "url": "https://feminegra.com/trumps-new-college-rule-could-make-social-work-and-arts-degrees-a-luxury/"
+   }
+  ],
+  "id": "T05",
+  "order": 5
+ },
+ {
+  "outlet": "Democracy Docket",
+  "headline": "Trump admin was ordered to give 30 days notice before releasing citizenship lists. It might not comply",
+  "article_url": "https://www.democracydocket.com/news-alerts/trump-admin-was-ordered-to-give-30-days-notice-before-releasing-citizenship-lists-it-might-not-comply/",
+  "published": "2026-09-28",
+  "trending_context": "Fresh in Google News on September 29.",
+  "trending_claim": "Judge Paula Xinis ordered the Trump administration to give 30 days' advance notice before activating a federal voter-eligibility portal or providing states citizenship lists, and the administration's objections raise concern it might not comply.",
+  "verdict": "mixed",
+  "rating_explained": "Democracy Docket's own coverage quotes Xinis's order directly: DOJ must 'file a notice with this Court thirty days in advance of any activation of the portal or provision of state citizenship lists,' issued Friday, September 25, 2026 after a hearing. Its related hearing report confirms DOJ attorney Joshua Schopf refused to rule out activating the portal before November 3 and objected to the notice requirement, saying 'If you want to enjoin us, enjoin us.' So the first half of the claim — the 30-day notice order — is factual and verified. But the second half — that the administration 'might not comply' — is speculation, not evidence; vigorous objection to a proposed order is not proof of intent to defy the issued one. Grading the two halves separately: the order is real, the noncompliance claim is inference. The verdict is mixed.",
+  "sources": [
+   {
+    "name": "Democracy Docket hearing report",
+    "url": "https://www.democracydocket.com/news-alerts/that-is-very-concerning-trump-admin-says-it-might-release-voter-eligibility-lists-before-midterms/"
+   },
+   {
+    "name": "Privacy Daily",
+    "url": "https://privacy-daily.com/news/2026/09/18/EPIC-Renews-Call-for-Court-to-Block-Creation-of-Citizen-Databases-Before-Midterms-2609180028"
+   }
+  ],
+  "id": "T06",
+  "order": 6
+ },
+ {
+  "outlet": "CNN",
+  "headline": "Trump open to Iran sanctions relief for 'concrete progress' on nuclear issues, US official says",
+  "article_url": "https://www.cnn.com/2026/09/28/politics/trump-iran-deal-sanctions-nuclear?cid=external-feeds_iluminar_meta",
+  "published": "2026-09-28",
+  "trending_context": "The Axios report and Trump's Truth Social denial were covered by CNN, Reuters and international outlets September 28–29.",
+  "trending_claim": "An unnamed U.S. official said Trump was willing to consider Iran sanctions relief as part of a final nuclear deal; Trump responded that he had \"offered them NOTHING.\"",
+  "verdict": "unverifiable",
+  "rating_explained": "The CNN story asserts a U.S. official told CNN Monday that Trump is willing to give Iran sanctions relief and release frozen funds for \"concrete progress\" on the nuclear issue, alongside Trump's Truth Social denial, \"I offered them NOTHING!\" I exhausted the search before rating. The sourcing is structurally thin: Reuters notes \"The Axios report did not identify the US officials,\" and CNN's own piece never names its official. A mandatory second sweep for named officials found none on record supporting the claim: no named U.S. official (Witkoff, Vance, Rubio, or Waltz) has said Trump is willing to offer sanctions relief — UN Ambassador Mike Waltz discussed only the rejected Hormuz proposal. On record against it: Trump himself wrote \"This is untrue. I offered them NOTHING\" (Reuters), and Iran's FM Abbas Araghchi told IRIB \"there has been no change whatsoever in Iran's positions\" (CNN). Trump's denial is direct evidence of his stated position, but a public denial cannot disprove private negotiating willingness, and the affirmative sources are unidentified. The core assertion can neither be confirmed nor denied — unverifiable.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-denies-offering-iran-sanctions-relief-tehran-says-ready-talks-2026-09-29/"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/09/28/politics/trump-iran-deal-sanctions-nuclear?cid=external-feeds_iluminar_meta"
+   }
+  ],
+  "id": "T07",
+  "order": 7
+ },
+ {
+  "outlet": "Democracy Docket",
+  "headline": "Trump DOJ responds to DNC lawsuit, offers no records on ballot seizure plans",
+  "article_url": "https://www.democracydocket.com/news-alerts/trump-doj-responds-to-dnc-lawsuit-offers-no-records-on-ballot-seizure-plans/",
+  "published": "2026-09-29",
+  "trending_context": "Widely circulated in election-law and political commentary on September 29.",
+  "trending_claim": "DOJ's 13-page answer to the DNC's FOIA lawsuit did not deny that the Trump administration considered seizing ballots or voting equipment, identified no responsive records, and offered no timeline for producing them.",
+  "verdict": "unverifiable",
+  "rating_explained": "The underlying case is real: the DNC filed its complaint on August 20, 2026, docketed as 1:26-cv-02928 in the District of Columbia per the Just Security litigation tracker, and Judge Colleen Kollar-Kotelly ordered DOJ to answer by Monday, September 28, 2026 after rejecting the department's request for an extension. Electionline's Courthouse News reporting confirms the February 2026 FOIA requests and the August lawsuit over records about ballot, machine, or election-material seizures. But the central claim concerns the contents of the 13-page answer itself, and no independent outlet describes those contents — only Democracy Docket's own article, the outlet being fact-checked, characterizes them. Multiple searches for the answer on document repositories and court dockets failed to locate the document, and a direct docket lookup was blocked (403). Because the filing may have occurred as reported yet its contents cannot be independently verified, this story is un verifiable.",
+  "sources": [
+   {
+    "name": "Electionline/Courthouse News",
+    "url": "https://electionline.org/home_features/democrats-sue-doj-over-midterm-ballot-seizure-plans/"
+   },
+   {
+    "name": "Just Security litigation tracker",
+    "url": "https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/"
+   }
+  ],
+  "id": "T08",
+  "order": 8
+ },
+ {
+  "outlet": "Electrek",
+  "headline": "Think gas prices are too low? Don't fret, Trump just raised them even higher",
+  "article_url": "https://electrek.co/2026/09/28/republicans-are-about-to-announce-an-effort-to-raise-your-fuel-costs-by-45/",
+  "published": "2026-09-28",
+  "trending_context": "The fuel-economy rollback led a large Google News cluster on September 29; covered by NYT, NPR, ABC, Detroit Free Press.",
+  "trending_claim": "NHTSA's own analysis of the CAFE rollback (2031 fleet target cut from 50.4 to 34.9 mpg) projects about $185 billion in added fuel costs and a ~5% rise in CO2 emissions — even as the administration claims the rollback will cut average new-vehicle prices by about $1,300.",
+  "verdict": "mostly-accurate",
+  "rating_explained": "Electrek asserts NHTSA's own analysis shows the finalized rollback (2031 fleet target cut from 50.4 to 34.9 mpg) adds $185 billion in fuel costs and ~5% in CO2 emissions, while the administration touts a ~$1,300 per-vehicle price cut. AP reporting confirms DOT/NHTSA finalized the 50.4→34.9 mpg cut for MY2031 and that DOT claims it will reduce the average new-vehicle cost by $1,300 (the final rule's own analysis puts the MY2031 saving at ~$1,290). The $185B/~5% figures are genuine agency numbers: NHTSA's December 2025 Preliminary Regulatory Impact Analysis projected ~100 billion more gallons burned through 2050, roughly $185 billion in added fuel costs, and a near-5% CO2 rise — a Harvard environmental-law review of the NHTSA documents cites the same $185 billion figure. The one imprecision: those exact figures attach to the proposal-stage analysis (34.5 mpg target); the final rule's own 892-page analysis projects a larger fuel increase — a mid-range 122 billion extra gallons through 2050 — so the claim is directionally right and, if anything, conservative. No Snopes/PolitiFact/FactCheck.org/Reuters/AP fact-check rating of this specific claim was found after a dedicated cross-check, and no contradicting evidence emerged, so it rates mostly-accurate rather than fully accurate solely because of the proposal-vs-final attribution.",
+  "sources": [
+   {
+    "name": "Associated Press (via Las Vegas Review-Journal)",
+    "url": "https://www.reviewjournal.com/news/politics-and-government/trump-administration-lowers-fuel-economy-standards-critics-say-at-a-significant-environmental-cost-3892281/"
+   },
+   {
+    "name": "MotorTrend",
+    "url": "https://www.motortrend.com/news/trump-administration-lowers-automotive-fuel-economy-standards"
+   },
+   {
+    "name": "Particle (reporting NHTSA's own analysis figures)",
+    "url": "https://particle.news/story/trump-announces-rollback-of-biden-era-fuel-economy-standards"
+   },
+   {
+    "name": "InsideEVs (final rule details)",
+    "url": "https://insideevs.com/news/809887/trump-revises-cafe-rules-evs-gas-cars/"
+   }
+  ],
+  "id": "T09",
+  "order": 9
+ },
+ {
+  "outlet": "New York Post",
+  "headline": "Oil soars above $107 after Trump rejects Iran peace deal, expects fresh strikes after midterms",
+  "article_url": "https://nypost.com/2026/09/28/business/oil-soars-above-107-after-trump-rejects-iran-peace-deal-expects-fresh-strikes-after-midterms/",
+  "published": "2026-09-28",
+  "trending_context": "Covered September 28–29 by WSJ, CNBC, Axios, Bloomberg and Reuters.",
+  "trending_claim": "The Post reports Trump personally confirmed rejecting Iran's seven-day ceasefire proposal — Hormuz reopened and nuclear talks restarted within a week in exchange for unfrozen Iranian assets, lifted oil sanctions, and an end to the U.S. naval blockade — and, citing the WSJ's anonymous U.S. officials, that he told aides he expects U.S. bombing of Iran to resume after November's midterms; Brent crude topped $107 a barrel and AAA's national gas average hit $4.48/gal.",
+  "verdict": "mostly-accurate",
+  "rating_explained": "The Post asserts Trump personally confirmed rejecting Iran's seven-day ceasefire proposal (Hormuz reopened plus nuclear talks in exchange for unfrozen assets, lifted oil sanctions, ended blockade), that he privately told aides he expects U.S. bombing to resume after the November midterms, and that Brent topped $107 with AAA gas at $4.48. The rejection is directly verified: Trump told reporters on camera Saturday 'I reject their proposal' and 'They made a proposal but I rejected it,' as quoted by Open Chronicle and MarketForces Africa, and the proposal terms match Foreign Minister Araghchi's own UNGA statements that Iran would reopen the strait if Washington released frozen funds, waived oil sanctions, and lifted the blockade. Market data verifies the price half: Brent traded to $107.02–$107.26 intraday Monday before settling near $105.28, and AAA's own Sept 24 release puts the national average at $4.48/gal, the highest ever for this time of year. The weak link is the midterms-strikes claim: it rests solely on the WSJ citing unnamed U.S. officials, and Reuters explicitly said it 'could not immediately confirm the report'; the Post attributes it in the body ('reportedly') but states it unhedged in the headline, and it sits in tension with Trump's public statement, noted in the same article, that he expected the war to end after the midterms. Because the verifiable core is directly confirmed while one headline-level element is only anonymously sourced and unconfirmed, the story is mostly accurate rather than fully accurate.",
+  "sources": [
+   {
+    "name": "Open Chronicle (with agencies)",
+    "url": "https://openchronicle.org/2026/09/28/oil-prices-spike-after-trump-rejects-iran-truce-offer/"
+   },
+   {
+    "name": "MarketForces Africa",
+    "url": "https://dmarketforces.com/oil-prices-rise-as-trump-rejects-iran-proposal-brent-tops-107/"
+   },
+   {
+    "name": "The News Pakistan (Reuters-based)",
+    "url": "https://www.thenews.pk/story/1439543-trump-says-no-to-irans-weeklong-plan-to-reopen-hormuz-expects-bombing-to-resume-wsj"
+   },
+   {
+    "name": "AAA Newsroom",
+    "url": "https://newsroom.aaa.com/2026/09/national-average-climbs-nearly-5-cents-since-last-week/"
+   }
+  ],
+  "id": "T10",
+  "order": 10
+ },
+ {
+  "outlet": "LADbible",
+  "headline": "Donald Trump threat risks fuel rationing as Government confirms who gets first priority",
+  "article_url": "https://www.ladbible.com/news/uk-news/donald-trump-fuel-rationing-risk-865593-20260929",
+  "published": "2026-09-29",
+  "trending_context": "Record UK diesel prices; Politico Europe reported a U.S. diesel-export ban under discussion; heavy pickup in UK outlets on September 29.",
+  "trending_claim": "Trump backed proposals to stop U.S. diesel exports as UK diesel prices hit a record high, prompting UK fuel-rationing contingency planning.",
+  "verdict": "mostly-accurate",
+  "rating_explained": "LADbible asserts Trump supports proposals to stop U.S. diesel exports, that UK diesel hit a record, and that emergency fuel plans are in play. The Times reports Trump confirmed Sunday he was considering an all-out diesel export ban (\"We're looking at it very seriously — we may do it\" to Fox News), and Business Motoring confirms Trump said September 23 he would support proposals to stop diesel exports, with Politico reporting a 90-day export ban under consideration and Energy Secretary Chris Wright pursuing voluntary refiner curbs. BBC reporting (via People Daily) confirms UK diesel hit a new high — 199.33p per liter per the RAC, beating the 199.09p record from June 2022 — and quotes Chancellor John Healey confirming the UK is in talks with the U.S. and \"making the provision that we may need to\" for a ban. However, the fuel-rationing apparatus cited (emergency powers under the Energy Act 1976, priority access for emergency services and public transport) is pre-existing standing policy, not newly created, so \"prompting fuel-rationing contingency planning\" slightly overstates causation. Also, LADbible attributes ministerial comments to \"Business Secretary Jonathan Reynolds\" while the BBC attributes the relevant remarks to Chancellor Healey — a minor attribution discrepancy that doesn't affect the core claim. Mostly-accurate.",
+  "sources": [
+   {
+    "name": "BBC (via People Daily)",
+    "url": "https://peopledaily.digital/business/uk-moves-to-block-possible-trump-diesel-export-ban"
+   },
+   {
+    "name": "Business Motoring",
+    "url": "https://businessmotoring.co.uk/trump-plans-to-ban-diesel-exports-pushes-uk-fleets-towards-electrification/"
+   }
+  ],
+  "id": "T11",
+  "order": 11
+ },
+ {
+  "outlet": "Reuters",
+  "headline": "Ex-White House election official leaves DOJ probe of Trump foes, sources say",
+  "article_url": "https://www.reuters.com/world/us/ex-white-house-election-official-leaves-doj-probe-trump-foes-sources-say-2026-09-29/",
+  "published": "2026-09-29",
+  "trending_context": "Major wire story with same-day broad syndication and fresh Google News surfacing.",
+  "trending_claim": "Kurt Olsen, the second DOJ lawyer on the Florida 'grand conspiracy' probe of Trump's foes, has left the inquiry following Joseph diGenova's resignation.",
+  "verdict": "mostly-accurate",
+  "rating_explained": "Reuters reported on September 28, 2026 that Kurt Olsen decided to leave the Florida-based investigation, citing two sources familiar with the matter, while a third source said Olsen remains employed by DOJ. The Associated Press independently confirmed Olsen's resignation from the probe the same day via its own anonymous source, and noted Olsen led a call earlier in September with lawyers for former CIA Director John Brennan, who was informed he is a target. USA Today independently confirmed the other pillar of the claim — that Joseph diGenova resigned from the inquiry on September 10. However, no official DOJ statement confirms Olsen's departure, and the claim rests on anonymous sourcing rather than direct evidence. Given four major outlets (Reuters, AP, CBS, Washington Post) independently report the departure with no denial, the claim is mostly-accurate, but under the direct-evidence standard it cannot be rated fully accurate.",
+  "sources": [
+   {
+    "name": "Associated Press (via KXL)",
+    "url": "https://www.kxl.com/second-prosecutor-resigns-from-justice-department-grand-conspiracy-probe-targeting-trump-foes/"
+   },
+   {
+    "name": "USA Today",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/10/joe-digenova-resigns-doj-trump-enemies/91698146007/"
+   }
+  ],
+  "id": "T12",
+  "order": 12
+ },
+ {
+  "outlet": "Gizmodo",
+  "headline": "Trump Wanted to Force Postal Workers to Conduct Identity Checks on Mail-in Voters",
+  "article_url": "https://gizmodo.com/?p=2000818575",
+  "published": "2026-09-29",
+  "trending_context": "Published September 29; aggregated across tech and political news the same day.",
+  "trending_claim": "ProPublica found the White House initially wanted postal workers to require mail-in ballots be sent by certified mail — effectively ID checks — and the final March 2026 executive order kept provisions making postal workers vet ballots.",
+  "verdict": "mostly-accurate",
+  "rating_explained": "ProPublica's September 28, 2026 investigation reports that the administration initially floated requiring all ballots be delivered exclusively by certified mail, based on several people knowledgeable about the discussions, and that the idea was abandoned after Postal Service objections. ProPublica also confirms the final March 2026 executive order required states to provide voter lists for postal workers to match against ballots, with entire batch mailings rejected over single mismatches. The 'ID check' framing is Gizmodo's extrapolation: certified mail requires the addressee's signature and ID presentation, which ProPublica itself did not characterize as an ID-check scheme. White House spokesperson Lauren Bis denied the certified-mail plan was unworkable and said officials went 'in another direction.' The underlying proposals and final-order vetting provisions are confirmed, so the story is mostly-accurate, with the ID-check label being the outlet's characterization.",
+  "sources": [
+   {
+    "name": "ProPublica",
+    "url": "https://www.propublica.org/article/trumps-plan-to-restrict-mail-voting"
+   },
+   {
+    "name": "Washington Examiner",
+    "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4732951/postal-service-chief-trump-mail-ballot-security-stopped/"
+   }
+  ],
+  "id": "T13",
+  "order": 13
+ },
+ {
+  "outlet": "Crooks and Liars",
+  "headline": "Trump Goes Nuclear On Maria Salazar",
+  "article_url": "https://crooksandliars.com/2026/09/trump-goes-nuclear-maria-salazar",
+  "published": "2026-09-27",
+  "trending_context": "Saturday repost spree after Trump said Salazar and fellow GOP Cuban-Americans should face consequences for opposing his Cuba policy; Politico's original account widely shared.",
+  "trending_claim": "On Saturday, September 26, 2026, Trump reposted more than a dozen Truth Social messages criticizing Rep. Maria Elvira Salazar, including calls to replace her.",
+  "verdict": "accurate",
+  "rating_explained": "The Crooks and Liars story, quoting Politico, asserts Trump \"reposted more than a dozen messages criticizing Salazar on Truth Social,\" including one reading \"So we need a NEW Republican to Replace Salazar.\" CNN independently reported that Trump \"shared in quick succession on Truth Social at least 14 posts from other users critical of Salazar\" on Saturday evening, quoting the \"nothing but a back stabber\" post and the \"So we need a NEW Republican to Replace Salazar\" post, and obtained a White House official's comment on the posts. Morning Honey independently reports Trump \"shared at least 14 posts targeting the Florida congresswoman on Truth Social\" on Saturday, with the same quotes and the White House response. The repost count (14), the Saturday timing, and the replacement-call content match across CNN, Politico (via C&L), and Morning Honey. Verdict: accurate.",
+  "sources": [
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/09/26/politics/trump-maria-elvira-salazar-truth-social-posts?cid=external-feeds_iluminar_meta"
+   },
+   {
+    "name": "Morning Honey",
+    "url": "https://www.morninghoney.com/p/president-trump-calls-gop-rep-salazar-backstabber-immigration-stance"
+   }
+  ],
+  "id": "T14",
+  "order": 14
+ },
+ {
+  "outlet": "RL News",
+  "headline": "Trump Urges Zelenskyy to Settle as Drones Hit Kyiv Again",
+  "article_url": "https://rlnews.ca/2026/09/27/trump-tells-zelenskyy-to-settle-as-kyiv-takes-a-third-night-of-drones/",
+  "published": "2026-09-27",
+  "trending_context": "Remarks after his UNGA-week meeting with Zelenskyy; widely covered as Russia hit Kyiv for a third straight night.",
+  "trending_claim": "On Saturday, September 26, 2026, Trump said he wants Zelenskyy to \"settle with Putin\" before winter, saying \"I want him to settle with Putin, and I want Putin to settle with him.\"",
+  "verdict": "accurate",
+  "rating_explained": "RL News asserts Trump said Saturday he wants Zelenskyy to \"settle with Putin.\" CNN confirms the verbatim quote from Trump's Saturday answer to its question: \"But you know what I want him to do? Make a deal. I want him to settle with Putin, and I want Putin to settle with him.\" EuropeSays confirms the same quote in context: asked about the Patriot-manufacturing-license agreement on September 26, \"Trump said he wanted Zelenskyy and Russian President Vladimir Putin to 'settle' their war,\" following their September 22 UNGA meeting. RL News also reports the drone-strike context — Ukraine's air force said Russia launched 170 drones overnight into Sunday with hits at 18 sites — and EuropeSays confirms strikes killed at least four overnight into September 27, including one person in Kyiv. The central quote is confirmed word-for-word by CNN's direct reporting. Verdict: accurate.",
+  "sources": [
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/09/26/politics/trump-ukraine-patriot-missiles?cid=external-feeds_iluminar_meta"
+   },
+   {
+    "name": "EuropeSays / RFE-RL",
+    "url": "https://www.europesays.com/russia/69940/"
+   }
+  ],
+  "id": "T15",
+  "order": 15
+ },
+ {
+  "outlet": "Mandatory",
+  "headline": "Trump Shows Xi Biden Autopen Portrait, Gets Criticism Online",
+  "article_url": "https://www.mandatory.com/celebrities/1860035-donald-trump-xi-jinping-white-house-tour-joe-biden-portrait",
+  "published": "2026-09-27",
+  "trending_context": "The White House video of the moment went viral; HuffPost originated the coverage.",
+  "trending_claim": "During the White House tour with Xi Jinping (the September 24 state visit; the White House shared the video on September 27), Trump pointed to the autopen image replacing Joe Biden's portrait, saying \"And this is the autopen. It's Biden.\"",
+  "verdict": "accurate",
+  "rating_explained": "Mandatory asserts Trump pointed out the autopen image replacing Biden's portrait to Xi, saying \"And this is the autopen. It's Biden,\" captured in the White House's own video. The New York Post confirms: \"Xi was filmed laughing as Trump showed off a faux photo depicting former President Joe Biden as an autopen\" during the Thursday White House visit. 7Globe, with a Reuters photo, confirms the exchange at the Presidential Walk of Fame: \"And, this is the autopen,\" Trump said, prompting Xi to laugh; \"It's Biden,\" Trump added, tapping Xi on the arm — and that the White House posted the video on social media. Mandatory also confirms the criticism from former Rep. John Delaney (\"the most un-American thing an American president has ever done\") and ex-deputy press secretary Sarah Matthews, corroborated by 7Globe. The moment, the quote, the White House video, and the criticism are all confirmed by independent outlets. Note: the visit itself was September 24, not September 26 — the White House posted the clip September 27. Verdict: accurate.",
+  "sources": [
+   {
+    "name": "New York Post",
+    "url": "https://nypost.com/2026/09/24/us-news/trump-pumps-up-the-pomp-for-chinas-xi-during-white-house-state-visit/"
+   },
+   {
+    "name": "7Globe",
+    "url": "https://www.7globe.in/this-is-the-autopen-trump-mocks-biden-while-showing-xi-presidential-portraits/"
+   }
+  ],
+  "id": "T16",
+  "order": 16
+ },
+ {
+  "outlet": "indy100",
+  "headline": "Trump raises eyebrows as he claims US has 'best poverty numbers'",
+  "article_url": "https://www.indy100.com/politics/trump/trump-poverty-numbers-rate-statistics",
+  "published": "2026-09-27",
+  "trending_context": "The clip went viral on X/Twitter September 28–29; follow-up fact-checks published September 29.",
+  "trending_claim": "On Sunday, Sept 27, 2026, outside the White House before traveling to the Presidents Cup, Trump told reporters: 'We have the best poverty numbers ever in the history of our country... there's less poverty now than at any time in the history of our country.' Census Bureau data released Sept 15 put the 2025 official poverty rate at a record-low 10.2%, though experts caution the 2025 figures don't reflect 2026 cuts to Medicaid and food assistance, and the supplemental poverty measure was unchanged at 13.1%.",
+  "verdict": "accurate",
+  "rating_explained": "The indy100 story asserts Trump made the remark on Sept 27 and that Census data released earlier this month backs the record-low claim, while noting expert caveats about 2026 policy cuts. Direct evidence confirms all of it: video of Trump's remarks circulated and was transcribed identically by multiple outlets (Primetimer quotes the full statement verbatim), and the Census Bureau's Sept 15, 2026 press release states the official poverty rate fell 0.5 percentage points to 10.2% in 2025. Reuters, reporting the same day, called it 'the lowest on record' and 'the lowest level since the bureau began tracking the measure,' noting the supplemental poverty measure was unchanged at 13.1%. The underlying claim — that the official U.S. poverty rate is the lowest ever recorded — is directly confirmed by the Census Bureau's own data, and the caveats indy100 itself includes (2026 Medicaid/food-assistance cuts, flat SPM) are accurately reported and do not contradict the record-low fact. No major fact-checker has rated this specific claim yet; the verdict rests on the primary source and wire reporting. Verdict: accurate.",
+  "sources": [
+   {
+    "name": "U.S. Census Bureau — Income, Poverty and Health Insurance Coverage in the United States: 2025 (press release, Sept 15, 2026)",
+    "url": "https://www.census.gov/newsroom/press-releases/2026/income-poverty-health-insurance-coverage.html"
+   },
+   {
+    "name": "Reuters (via LA Post) — 'US poverty rate dips to lowest on record, Census Bureau says' (Sept 15, 2026)",
+    "url": "https://www.lapost.com/content/us-poverty-rate-dips-to-lowest-on-record-census-bureau-says"
+   }
+  ],
+  "id": "T17",
+  "order": 17
+ },
+ {
+  "outlet": "Crooks and Liars",
+  "headline": "Poor, Pitiful Donald Trump Caught On Hot Mic Saying He Wants To Go Home",
+  "article_url": "https://crooksandliars.com/2026/09/poor-pitiful-donald-trump-caught-hot-mic",
+  "published": "2026-09-28",
+  "trending_context": "The clip went viral on X after the September 27 Presidents Cup at Medinah; picked up by Raw Story and other outlets.",
+  "trending_claim": "On Sunday, September 27, 2026, a hot mic at the Presidents Cup trophy presentation at Medinah caught Trump saying \"I'd like to go home\" after shaking hands with U.S. team captain Brandt Snedeker.",
+  "verdict": "accurate",
+  "rating_explained": "The Crooks and Liars story asserts a hot mic caught Trump saying \"I'd like to go home\" to his staff after shaking Snedeker's hand at the September 27 Presidents Cup. Morning Honey, citing the Daily Beast, reports the president \"reportedly said, 'I'd like to go home'\" after turning from the players, and embeds the viral September 27 clip posted by the X account Donk Media. Bored Panda independently describes the same sequence: after Trump told Snedeker \"You're going to go down in history,\" he \"seemed to say\" to those around him, \"I'd like to go home.\" The White House Press Pool's X account corroborates the trophy-presentation timeline that evening (reporters assembled 5:15 p.m., Trump departing for his motorcade within 40 minutes). The claim concerns an audible utterance in a widely circulated video clip; multiple independent outlets report hearing the same words, which is the strongest verification available short of a transcript. C&L itself hedges with \"appears to tell his staff,\" honestly reflecting the clip's background noise. Verdict: accurate.",
+  "sources": [
+   {
+    "name": "Morning Honey",
+    "url": "https://www.morninghoney.com/p/trumps-presidents-cup-trip-takes-awkward-turn-with-protests-profane-heckle-and-hot-mic-moment"
+   },
+   {
+    "name": "Bored Panda",
+    "url": "https://www.boredpanda.com/trump-hot-mic-presidents-cup/"
+   }
+  ],
+  "id": "T18",
+  "order": 18
+ },
+ {
+  "outlet": "USA Today",
+  "headline": "Trump uses taxpayer funds for another TV ad, warns of 'final battle'",
+  "article_url": "https://www.usatoday.com/story/news/politics/2026/09/28/trump-ad-taxpayer-funds-midterm-election/91984613007/",
+  "published": "2026-09-28",
+  "trending_context": "Three such taxpayer-funded ads aired nationally (SNL, NFL games, political shows); bipartisan criticism; covered by Reuters, AP, CNBC, Common Dreams.",
+  "trending_claim": "A taxpayer-funded TV ad aired during September 27 NFL games that largely mirrors Trump's 2024 campaign ad and frames the midterms as a \"final battle.\"",
+  "verdict": "accurate",
+  "rating_explained": "USA Today asserts a taxpayer-funded ad aired during NFL games on Sunday, September 27, warned of a \"final battle,\" and mirrors a 2024 campaign commercial. Reuters confirms three nationally broadcast ads ending with the disclaimer \"Paid for by the US Government,\" that the \"final battle\" spot is \"nearly identical to one of Trump's campaign spots from 2024,\" and that the ads \"appeared during both 'Saturday Night Live' and NFL football games on Sunday.\" CNN confirms the ad aired during at least two Sunday NFL games (Commanders-Seahawks and Panthers-Browns on Fox), carries the \"Paid for by the US Government\" chyron, and matches the video Trump posted on Truth Social in January 2024 except for the campaign-logo ending. Both outlets also document the White House's public-service-announcement defense and bipartisan criticism (Senate Majority Leader John Thune: \"shouldn't be paid for with taxpayer dollars\"; Sen. John Kennedy; Rep. Thomas Massie). Every material element of the claim is confirmed by wire-level reporting. Verdict: accurate.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/trump-government-ads-draw-scrutiny-weeks-before-midterm-elections-2026-09-28/"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/09/27/politics/white-house-trump-government-funded-ad?cid=external-feeds_iluminar_meta"
+   }
+  ],
+  "id": "T19",
+  "order": 19
+ },
+ {
+  "outlet": "New York Post",
+  "headline": "Trump announces largest steel plant in American history to be built in Iowa",
+  "article_url": "https://nypost.com/2026/09/28/us-news/trump-to-announce-largest-steel-plant-in-american-history-to-be-built-in-iowa/",
+  "published": "2026-09-28",
+  "trending_context": "Major Oval Office announcement on September 28; WSJ first reported the exclusive; one of the biggest stories of September 29.",
+  "trending_claim": "On September 28, 2026, Trump announced that Mesabi Metallics will build a $15 billion steel plant in Iowa's Lee County, which the White House described as the largest in U.S. history, with production targeted for 2030.",
+  "verdict": "accurate",
+  "rating_explained": "The New York Post story asserts Trump announced the Mesabi Metallics Iowa steel plant in the Oval Office on September 28. The Des Moines Register confirms: Trump \"announced Monday, Sept. 28, from the Oval Office that Mesabi Metallics is planning to invest $15 billion into building a steel mill in Iowa,\" with 6,000 construction jobs and 1,750 permanent jobs, steelmaking beginning in 2030, the mill in Lee County per Rep. Mariannette Miller-Meeks, and the \"largest in U.S. history\" characterization explicitly attributed to the White House. Iowa Public Radio independently confirms the $15 billion figure, the Lee County location, Mesabi Metallics as the Minnesota-based builder owned by India's Essar Group, and at least 1,700 permanent high-paying jobs. The announcement, dollar figure, company, county, the White House's \"largest\" description, and the 2030 timeline are all confirmed by independent on-the-ground reporting. Verdict: accurate.",
+  "sources": [
+   {
+    "name": "Des Moines Register",
+    "url": "https://www.desmoinesregister.com/story/news/politics/2026/09/28/lee-county-iowa-steel-plant-president-donald-trump-mesabi-metallics/91973586007/"
+   },
+   {
+    "name": "Iowa Public Radio",
+    "url": "https://www.iowapublicradio.org/political-news/2026-09-28/president-trump-15-billion-steel-plant-iowa-mesabi-metallics"
+   }
+  ],
+  "id": "T20",
+  "order": 20
+ },
+ {
+  "outlet": "CNN",
+  "headline": "Trump says he did not discuss the possibility of the US selling weapons to China, contradicting his ambassador",
+  "article_url": "https://www.cnn.com/2026/09/28/politics/trump-china-weapons?cid=external-feeds_iluminar_meta",
+  "published": "2026-09-28",
+  "trending_context": "Ambassador David Perdue made the claim on Fox News Sunday after the Trump–Xi meeting; State Department pushback followed.",
+  "trending_claim": "Ambassador David Perdue said on Fox News Sunday that Trump asked Xi Jinping whether China wanted to buy U.S. weapons; Trump denied on Monday that any such discussion took place.",
+  "verdict": "accurate",
+  "rating_explained": "The CNN story asserts Perdue told Fox News Sunday that Trump \"actually asked President Xi, would he like to buy some, at one point,\" and that Trump denied it Monday. The Associated Press (via WDRB) confirms Perdue said Sunday on \"Fox News Sunday\" that Trump asked Xi if he'd like to buy U.S. weaponry, and that Trump on Monday reacted with confusion — \"To China? You mean to Taiwan?... I never heard of that one\" — adding \"we didn't discuss it\" while musing \"maybe it's a good idea.\" The Daily Caller independently confirms both halves: Perdue's Sunday claim and Trump's Monday denial. The State Department is on record distancing itself: \"U.S. law prohibits arms sales to China and there is no offer or plan to sell arms to China\" (confirmed by AP, Daily Caller, and CNN). Both halves of the story's central claim are confirmed by multiple independent outlets. Verdict: accurate.",
+  "sources": [
+   {
+    "name": "Associated Press (via WDRB Wave)",
+    "url": "https://www.wdrbwave.com/2026/09/28/trump-asked-chinas-president-if-he-wanted-buy-us-arms-ambassador-says/"
+   },
+   {
+    "name": "Daily Caller",
+    "url": "https://dailycaller.com/2026/09/28/trump-xi-jinping-china-us-weapons-sales-david-perdue"
+   }
+  ],
+  "id": "T21",
+  "order": 21
+ },
+ {
+  "outlet": "The Daily Bo Snerdley",
+  "headline": "Trump wakes up thinking about Bill Maher and Joe Scarborough — and unloads on both",
+  "article_url": "https://www.thedailybs.com/2026/09/28/trump-wakes-up-thinking-about-bill-maher-and-joe-scarborough-and-unloads-on-both/",
+  "published": "2026-09-28",
+  "trending_context": "The back-and-forth feud ran across Mediaite, HuffPost and others on September 28–29.",
+  "trending_claim": "Trump posted on Truth Social that Morning Joe would soon be \"dead\" with \"REALLY BAD RATINGS\"; Scarborough countered that it averaged 733,000 viewers in August, up 27% year over year, and was the top-rated morning show in the D.C. market.",
+  "verdict": "accurate",
+  "rating_explained": "The Daily BS story asserts Trump's September 28 Truth Social post said \"Joe Scarborough's show has been cut way back, and will soon be 'dead!' Too predictable and boring! REALLY BAD RATINGS,\" and that Scarborough countered with 733,000 August viewers, up 27% year over year, and the #1 morning show in the D.C. market. TV Insider confirms Trump's exact Truth Social wording and independently verifies the counter-claim: \"In August, the show averaged 733,000 total viewers, per Nielsen, up 27 percent on the same period last year. It's also the highest-rated morning show in the Washington, D.C. market.\" A second outlet (us247.viralstory) confirms the same figures and D.C. ranking and describes the on-air rebuttal by Scarborough, Mika Brzezinski, and Jonathan Lemire. Scarborough's counter-figures are independently corroborated by Nielsen data cited by TV Insider, not just his own assertion. Verdict: accurate.",
+  "sources": [
+   {
+    "name": "TV Insider",
+    "url": "https://www.tvinsider.com/1293501/bill-maher-morning-joes-ratings-are-slammed-by-trump-in-wild-rant/"
+   },
+   {
+    "name": "us247.viralstory",
+    "url": "https://us247.viralstory.biz/article/trump-targets-scarborough-as-morning-joe-ratings-rise-maablm"
+   }
+  ],
+  "id": "T22",
+  "order": 22
+ },
+ {
+  "outlet": "Daily Kos",
+  "headline": "Hegseth begs for mail-in votes while Trump trashes mail-in voting",
+  "article_url": "https://politomix.com/daily-kos/2401024/hegseth-begs-mail-votes-trump-trashes-mail-voting/",
+  "published": "2026-09-28",
+  "trending_context": "Covered by People and others on September 28 amid GOP midterm concerns.",
+  "trending_claim": "Defense Secretary Pete Hegseth encouraged military absentee/mail-in voting while Trump has repeatedly attacked mail-in voting.",
+  "verdict": "accurate",
+  "rating_explained": "Daily Kos's story asserts Hegseth encouraged military mail-in voting while Trump trashes it. USA Today confirms Hegseth's September 25 video in which he told troops they could \"use a standardized federal postcard to register and request a ballot\" and \"use the federal write-in absentee ballot,\" adding the processes are \"straightforward and protected by law.\" People confirms the contrast on the other side: Trump called mail-in voting \"inherently corrupt\" in a July speech, said \"Mail-in voting means mail-in cheating\" in March, and the administration pushed to restrict mail-in ballots until the Supreme Court blocked the changes. Two nuances, both documented by People: the administration argues its restrictions don't apply to military voters, and Hegseth endorsed no candidate in the video. Neither undermines the core claim — he promoted absentee/mail voting while Trump attacks it — which is confirmed by named-source reporting on both halves. Verdict: accurate.",
+  "sources": [
+   {
+    "name": "USA Today",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/25/pete-hegseth-urges-troops-register-vote-november-midterms/91940567007/"
+   },
+   {
+    "name": "People (via EuropeSays)",
+    "url": "https://www.europesays.com/people/243195/"
+   }
+  ],
+  "id": "T23",
+  "order": 23
+ },
+ {
+  "outlet": "CNN",
+  "headline": "Trump asks Supreme Court to suspend transgender medical care in federal prisons",
+  "article_url": "https://www.cnn.com/2026/09/28/politics/trump-supreme-court-suspend-transgender-care-federal-prisons?cid=external-feeds_iluminar_meta",
+  "published": "2026-09-28",
+  "trending_context": "Covered by Reuters, AP and many syndications; high Google News visibility September 28–29.",
+  "trending_claim": "The Trump administration asked the Supreme Court on September 28 to allow federal prisons to restrict transgender inmates' gender-affirming care — banning hormones and surgeries while keeping mental-health treatment — while litigation continues.",
+  "verdict": "accurate",
+  "rating_explained": "The Associated Press reported on September 28, 2026 that the administration filed an emergency application asking the justices to lift U.S. District Judge Royce Lamberth's injunction in Kingdom v. Trump while the case continues, noting the policy bars hormones and surgeries while retaining psychotherapy and psychiatric medication. AP confirms the Bureau of Prisons reported more than 600 prisoners received hormones in 2025, showing the policy's scale. Law Commentary independently confirms the same September 28 emergency request, the D.C. Circuit's September 18 refusal to stay Lamberth's order in a divided panel, and the precise categories barred — surgeries, new hormones, tapering of existing hormones, makeup, wigs, and clothing — while mental-health treatment remains. The claim's central facts match the named sources on dates, parties, and substance, so the verdict is accurate.",
+  "sources": [
+   {
+    "name": "Associated Press (via KCAU)",
+    "url": "https://www.kcau9.com/news/national/ap-trump-administration-asks-supreme-court-to-allow-transgender-medical-care-restrictions-in-prison/"
+   },
+   {
+    "name": "Law Commentary",
+    "url": "https://www.lawcommentary.com/articles/trump-supreme-court-transgender-health-care-federal-prisons"
+   }
+  ],
+  "id": "T24",
+  "order": 24
+ },
+ {
+  "outlet": "Reuters",
+  "headline": "Trump gains second vacancy to fill on appeals court dominated by conservatives",
+  "article_url": "https://www.reuters.com/legal/government/trump-gains-second-vacancy-fill-appeals-court-dominated-by-conservatives-2026-09-28/",
+  "published": "2026-09-28",
+  "trending_context": "Fresh September 28 wire piece; widely picked up in legal and political media.",
+  "trending_claim": "Judge Leslie Southwick will take senior status at the end of 2026 or upon his successor's confirmation, giving Trump a second vacancy to fill on the conservative-dominated Fifth Circuit.",
+  "verdict": "accurate",
+  "rating_explained": "Law.com reported on September 28, 2026 that Fifth Circuit court clerk Lyle Cayce confirmed Southwick's plan to take senior status, calling it Trump's 'second opportunity to fill a seat on the New Orleans-based appeals court in his second term.' The Daily Caller confirms the Bush-appointed Southwick's semi-retirement, that twelve of the court's seventeen judges were appointed by Republican presidents including six by Trump, and that Trump nominated Anna St. John to fill the other current-term Fifth Circuit seat. Reuters confirms Southwick's own email stating he notified Trump he would assume senior status at the end of 2026 or upon his successor's confirmation, whichever is later. The timing, the second-vacancy status, and the court's conservative majority are all confirmed by named sources, so the verdict is accurate.",
+  "sources": [
+   {
+    "name": "Law.com (National Law Journal)",
+    "url": "https://www.law.com/nationallawjournal/2026/09/28/5th-circuit-judge-southwick-plans-to-take-senior-status/"
+   },
+   {
+    "name": "Daily Caller",
+    "url": "https://dailycaller.com/2026/09/28/judicial-retirement-trump-fifth-circuit-court-nominations"
+   }
+  ],
+  "id": "T25",
+  "order": 25
+ },
+ {
+  "outlet": "TheBullPost",
+  "headline": "Trump ‘Very Seriously’ Considering Diesel Export Ban",
+  "article_url": "https://thebullpost.press/trump-very-seriously-considering-diesel-export-ban/",
+  "published": "2026-09-28",
+  "trending_context": "Google News cluster on September 29 included Politico, BBC, Yahoo Finance, Reuters, CBS and CNBC.",
+  "trending_claim": "At the Presidents Cup on Sept. 27, Trump told Fox News he is 'very seriously' considering a U.S. diesel export ban, acknowledging it could slightly raise gasoline prices, as AAA data put average U.S. diesel at ~$6.50/gal, just below its $6.53 record.",
+  "verdict": "accurate",
+  "rating_explained": "TheBullPost reports Trump told a Fox News reporter at the Presidents Cup that he is 'very seriously' considering a U.S. diesel export ban, while acknowledging it could 'lead to a little bit of an increase on gasoline for cars,' and cites AAA's ~$6.50/gal average diesel price near the $6.53 record. Bloomberg's reporting from the Presidents Cup at Medinah Country Club, Illinois, on Sunday, Sept. 27, confirms Trump's on-camera quotes verbatim — 'We're thinking about it very seriously... We may do it' — alongside his gasoline-price caveat. CNBC-sourced reporting independently corroborates the quotes and attributes the ~$6.50/gal average and the $6.53 Sept. 22 record to AAA; J.P. Morgan's analysis, also citing AAA, confirms diesel hit $6.53 on September 22, 'the highest level on record.' Because the story is a report of Trump's directly observed statements plus independently verified AAA data, with no contradicting evidence, it earns an accurate verdict. Note this verifies what Trump said and the price figures — not that a ban will actually be imposed, which remains undecided (Energy Secretary Chris Wright has publicly argued against a full ban).",
+  "sources": [
+   {
+    "name": "Bloomberg (via The Hindu BusinessLine)",
+    "url": "https://www.thehindubusinessline.com/markets/commodities/trump-says-us-is-very-seriously-considering-diesel-export-ban-to-tackle-high-prices/article71518133.ece"
+   },
+   {
+    "name": "J.P. Morgan Wealth Management (Chase, citing AAA diesel data)",
+    "url": "https://www.chase.com/personal/investments/learning-and-insights/article/diesel-prices-september-2026-what-it-means-for-inflation-and-investors"
+   },
+   {
+    "name": "InterNewscast (CNBC-sourced reporting)",
+    "url": "https://internewscast.com/news/asia/trump-weighs-u-s-diesel-export-ban-as-supply-crunch-deepens/"
+   }
+  ],
+  "id": "T26",
+  "order": 26
+ },
+ {
+  "outlet": "USA Today",
+  "headline": "US, China agree to tariff reductions on $60 billion worth of trade",
+  "article_url": "https://www.usatoday.com/story/money/economy/2026/09/28/us-china-tariffs-xi-visit-trump/91983813007/",
+  "published": "2026-09-28",
+  "trending_context": "Covered September 29 by IBD, Reuters-syndicated outlets and international media.",
+  "trending_claim": "After the Trump-Xi meeting, the U.S. and China agreed to tariff reductions on $60 billion in trade — $30 billion of \"non-sensitive\" goods on each side — recommended by a new U.S.-China Board of Trade, with White House lists covering 77 Chinese import categories and 1,619 U.S. product lines.",
+  "verdict": "accurate",
+  "rating_explained": "The story asserts that the U.S. and China agreed to cut tariffs on $60B in goods ($30B each side) via Board of Trade recommendations following the Trump-Xi meeting, with published lists of 77 Chinese import types and 1,619 U.S. items. CNN reports the White House announcement late Sunday September 28 following the Trump-Xi Washington meeting, a \"30-for-30\" framework with $30B of non-sensitive goods per side, 1,619 U.S. product items (corn, wheat, meat, seafood, medical devices), 77 Chinese import items, and USTR Jamieson Greer's statement that it improves market access for ~30% of U.S. exports to China. MarketWatch independently confirms the same 77-type Chinese list (fireworks, tableware, linens, appliances, toys) worth $30B matched by $30B of U.S. goods getting lower Chinese tariffs, citing Greer's statement. Caveat: neither side has specified the actual new tariff rates or implementation timeline yet, so the claim is accurate about the announced agreement/framework, not about tariffs already reduced. Evidence → verdict: multiple independent outlets corroborate every key number against the USTR statement, so the story checks out.",
+  "sources": [
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/09/28/business/us-china-tariff-cuts-60-billion-intl?cid=external-feeds_iluminar_meta"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/the-u-s-and-china-agree-to-60-billion-in-tariff-cuts-on-products-like-dolls-and-fireworks-rare-earths-remain-a-sticking-point-e4667872"
+   }
+  ],
+  "id": "T27",
+  "order": 27
+ },
+ {
+  "outlet": "Associated Press",
+  "headline": "Trump announces a new $15B Iowa steel plant and claims it will be the nation's biggest",
+  "article_url": "https://www.reflector.com/news/national/trump-announces-a-new-15b-iowa-steel-plant-and-claims-it-will-be-the-nations/article_f1c72e0c-a345-53c6-abc7-c7d3e5e70973.html",
+  "published": "2026-09-28",
+  "trending_context": "Covered by AP, NBC News, USA Today and the Des Moines Register; announced at a campaign-tinged event before the Nov 3 midterms.",
+  "trending_claim": "Trump announced at a September 28 Oval Office event that Mesabi Metallics (owned by India's Essar Group) will build a $15 billion steel plant in Iowa, claiming it will be the largest steel plant in U.S. history, with 10 million tons of annual output and production projected to begin in 2030.",
+  "verdict": "accurate",
+  "rating_explained": "The AP story reports that Trump announced the $15B Mesabi Metallics Iowa steel plant at an Oval Office event with steel executives and Iowa Republicans, and that Trump said it will become the largest steel plant in the United States, producing 10 million tons of steel a year after full buildout, with production projected to begin in 2030 supplied by a new $2.5B Minnesota iron ore mine. The Hindu BusinessLine (carrying Reuters photo coverage from inside the Oval Office event on September 28) independently confirms the announcement, quotes Trump directly — \"Mesabi Metallics will be building the largest steel plant in American history in the great state of Iowa\" — and cites a White House official for the 2030 production target, 10-million-tonne annual capacity, 1,750 permanent Iowa jobs, and the $2.5B Minnesota mine. The \"largest\" framing is reported as Trump's and the company's claim (the company itself calls it the largest single-location investment in an integrated steel complex in American history), not as an independently verified fact — and the AP presents it that way, attributing it to Trump. Nothing contradicts the reporting; the event, the figures, and the quoted claims are all corroborated by direct wire/press evidence, so the story is accurate.",
+  "sources": [
+   {
+    "name": "Associated Press (via Reflector)",
+    "url": "https://www.reflector.com/news/national/trump-announces-a-new-15b-iowa-steel-plant-and-claims-it-will-be-the-nations/article_f1c72e0c-a345-53c6-abc7-c7d3e5e70973.html"
+   },
+   {
+    "name": "The Hindu BusinessLine (Reuters photo coverage)",
+    "url": "https://www.thehindubusinessline.com/companies/trump-announces-essar-groups-15-billion-steel-plant-project-in-iowa/article71522218.ece"
+   }
+  ],
+  "id": "T28",
+  "order": 28
+ },
+ {
+  "outlet": "USA Today",
+  "headline": "Trump's Canada import ban kicks off Sept. 29 at midnight",
+  "article_url": "https://www.usatoday.com/story/money/economy/2026/09/28/trump-canada-import-bans-products-affected/91992825007/",
+  "published": "2026-09-28",
+  "trending_context": "Major Google News cluster September 28–29: HuffPost, NYT, CNN, Bloomberg, Globe and Mail and regional outlets.",
+  "trending_claim": "Trump's Sept 8, 2026 proclamations under Section 338 of the Tariff Act of 1930 imposed import bans on specified Canadian alcohol, dairy ingredients (including whey), and motorcycles with engines over 800cc, effective 12:01 a.m. ET Sept 29; whiskies crossing the border in containers larger than 4 liters (~1 gallon) are excluded from the ban, which is how Crown Royal — distilled and aged in Manitoba but shipped in bulk to U.S. bottling plants — avoids it.",
+  "verdict": "accurate",
+  "rating_explained": "The USA Today story asserts the bans stem from Trump's Sept 8 proclamations, cover dozens of alcohol products, whey and dairy ingredients, and motorcycles over 800cc, take effect at midnight ET Sept 29, and exempt Crown Royal via a bulk-container provision. Independent reporting confirms every element: the Associated Press reported Sept 29 that the U.S. 'went ahead early Tuesday' banning nearly $1 billion of Canadian imports including alcoholic beverages, dairy products (including whey) and motorcycles, effective 12:01 a.m. ET, with BRP confirming its Can-Am Spyder and Canyon bikes are 'excluded from importation into the U.S.' MarketWatch independently reported the proclamation excludes whiskies in containers larger than 4 liters from the import ban, and that Diageo's Crown Royal is distilled and matured in Manitoba but shipped in large containers to U.S. bottling facilities — exactly the exemption USA Today described. The ban took effect as scheduled with no last-minute deal; Trump said Sept 28 he had no plans to back down. Verdict: accurate.",
+  "sources": [
+   {
+    "name": "Associated Press (via KCAU 9) — 'From motorcycles to booze, US ban on $1 billion worth of Canadian imports goes into effect' (Sept 29, 2026)",
+    "url": "https://www.kcau9.com/news/politics/ap-from-motorcycles-to-booze-us-ban-on-1-billion-worth-of-canadian-imports-goes-into-effect/"
+   },
+   {
+    "name": "MarketWatch — 'Canadian whisky on the rocks? Crown Royal is set to avoid Trump's new ban'",
+    "url": "https://www.marketwatch.com/story/canadian-whisky-on-the-rocks-crown-royal-is-set-to-avoid-trumps-new-ban-2953bea3"
+   }
+  ],
+  "id": "T29",
+  "order": 29
+ },
+ {
+  "outlet": "CBS News",
+  "headline": "High inflation, gas prices push Trump approval ratings down: 'The polls are fake,' he says",
+  "article_url": "http://bayareadailynews.com/high-inflation-gas-prices-push-trump-approval-ratings-down-the-polls-are-fake-he-says/",
+  "published": "2026-09-28",
+  "trending_context": "Tied into a September 29 economy-coverage wave across NPR, CNN, Politico and the WSJ.",
+  "trending_claim": "CBS News reported Sept 28 that high inflation (August CPI at 3.4%, driven by a 3.9% monthly gas-price spike) and gas prices linked to the Iran war pushed Trump's approval on the economy to near-record lows, creating headwinds for Republican candidates ahead of the November midterms, while Trump dismissed the polls as 'fake.'",
+  "verdict": "accurate",
+  "rating_explained": "The genuine CBS News segment (confirmed on the official CBS Evening News YouTube channel and listed as appearing on cbsnews.com Sept 28) makes exactly these claims, and each is independently verified. Reuters/Ipsos found Trump's approval at 32% — the lowest of his political career — with just 17% approving his handling of the cost of living, explicitly tying dissatisfaction to the Iran war, which Reuters says pushed gasoline and diesel prices sharply higher since Trump launched it in February. CNN's Sept 23 poll showed 33% overall approval, a numeric low in either term, with only 20% approving his inflation handling; NBC's Sept 20 poll showed a second-term-low 41% with 55% saying his policies hurt the economy. BLS August CPI data (3.4% year-over-year, gas up 3.9% in a month) confirms the inflation/gas figures and the Iran-war linkage. Trump's direct quote — 'First of all, the polls are fake' — is confirmed verbatim by the Des Moines Register at the Sept 28 Iowa event, and also reported by Politico. Republican headwinds are confirmed by the Reuters/Ipsos poll (voters picking Democrats over Republicans 43%-35% for Congress, the year's largest gap) and the Register's account of Iowa Republicans in toss-up races. The listed outlet (bayareadailynews.com) is a third-party mirror, but the underlying CBS News content is authentic and accurate as reported.",
+  "sources": [
+   {
+    "name": "Reuters/Ipsos via TBS News — 'Trump approval falls to record low of 32% as high costs bite' (Sept 21, 2026)",
+    "url": "https://www.tbsnews.net/worldbiz/usa/trump-approval-falls-record-low-32-high-costs-bite-reutersipsos-poll-finds-1550786"
+   },
+   {
+    "name": "Des Moines Register — 'Iowa Republicans in tight midterm races praise Trump for steel plant' (Sept 28, 2026)",
+    "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/09/28/trump-iowa-steel-plant-announcement-republicans-midterms-election-2026/91987269007/"
+   },
+   {
+    "name": "USA Today — 'Trump's approval rating drops, more voters say he's hurt the economy: new poll' (Sept 20, 2026)",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/20/donald-trump-nbc-news-poll-economy-iran/91859376007/"
+   }
+  ],
+  "id": "T30",
+  "order": 30
+ },
+ {
+  "outlet": "Associated Press",
+  "headline": "Taxpayers have funded nearly $1.5M in pro-Trump ads. Criticism is mounting, including from the GOP",
+  "article_url": "https://www.kxl.com/taxpayers-have-funded-nearly-1-5m-in-pro-trump-ads-criticism-is-mounting-including-from-the-gop/",
+  "published": "2026-09-28",
+  "trending_context": "CNN, Politico, NBC and Fiscal Times all carried September 29 updates; criticism mounting including from GOP senators.",
+  "trending_claim": "Three taxpayer-funded TV ads glorifying President Trump, each ending with \"Paid for by the U.S. Government,\" have cost over $1.4 million (AdImpact); named legal experts say the ads appear to violate the federal anti-propaganda statute, and Republican Senators Thune, Rounds, and Kennedy have objected.",
+  "verdict": "accurate",
+  "rating_explained": "The AP story (opened in full) documents all three ads — a communism-themed spot, a Mount Rushmore/250th-anniversary spot, and a re-cut of a 2024 campaign ad — all ending with \"Paid for by the U.S. Government,\" with AdImpact estimating spending above $1.4 million. It names the legal experts: Richard Painter (former White House ethics counsel under George W. Bush) and Kathleen Clark (legal ethics professor, Washington University in St. Louis), both saying the ads appear to violate the statute barring appropriated funds for \"publicity or propaganda\" (and the Hatch Act), since they promote Trump personally rather than any specific program. It also records objections from Senate Majority Leader John Thune, Sen. Mike Rounds, and Sen. John Kennedy (on CBS's Face the Nation). An independent corroborating source, the Fiscal Times newsletter (opened), confirms the same ads, an AdImpact figure of more than $1.7 million, the Thune and Kennedy quotes, and a Democratic lawmakers' letter citing Section 718's anti-propaganda provision. No Snopes, PolitiFact, FactCheck.org, Reuters, or AP Fact Check rating of this specific claim was found, so the verification rests on these primary-reported sources plus the White House's own on-the-record defense (calling them PSAs, citing Obama/Biden-era precedents), which the story includes. The White House disputes the legal conclusion, but the story accurately reports the spending figure, the experts' stated views, and the named senators' objections — verdict: accurate.",
+  "sources": [
+   {
+    "name": "Associated Press (via KXL)",
+    "url": "https://www.kxl.com/taxpayers-have-funded-nearly-1-5m-in-pro-trump-ads-criticism-is-mounting-including-from-the-gop/"
+   },
+   {
+    "name": "The Fiscal Times newsletter (Sept. 28, 2026)",
+    "url": "https://www.thefiscaltimes.com/newsletter/20260928-Trump-Launches-New-Attack-Congresss-Spending-Power"
+   }
+  ],
+  "id": "T31",
+  "order": 31
+ },
+ {
+  "outlet": "The Fiscal Times",
+  "headline": "Trump Launches New Attack on Congress's Spending Power",
+  "article_url": "https://www.thefiscaltimes.com/newsletter/20260928-Trump-Launches-New-Attack-Congresss-Spending-Power",
+  "published": "2026-09-28",
+  "trending_context": "Covered September 29 by CNN, Politico, NPR, Time and MS Now, five days before the September 30 fiscal-year end.",
+  "trending_claim": "On Friday, September 25, 2026 — five days before the September 30 fiscal-year end — President Trump submitted 11 pocket rescissions totaling $810 million, including $567 million from HHS's Office of Refugee Resettlement; the GAO says pocket rescissions are illegal, and Senate Appropriations Chair Susan Collins called the move \"a clear violation of the law.\"",
+  "verdict": "accurate",
+  "rating_explained": "The Fiscal Times article reports Trump's Friday letter to Congress canceling $810 million across 11 rescissions, with $567 million from HHS's Office of Refugee Resettlement, arriving five days before the September 30 fiscal-year end while the House was on recess — independently confirmed by Bloomberg Government, which reports the identical $810 million total, the $567 million HHS/ORR figure, the Friday announcement, and that the White House plans to proceed regardless of congressional approval. The GAO's own WatchBlog (opened, a primary source) answers \"Are pocket rescissions legal?\" with \"No\" — stating the Impoundment Control Act does not permit withholding funds through expiration and that doing so bypasses Congress's power of the purse. Sen. Susan Collins's exact quoted words — \"Any effort to rescind appropriated funds without congressional approval is a clear violation of the law\" — are confirmed verbatim in Bloomberg Government and the Fiscal Times, which also notes her accusation that OMB withheld the funds for months to run out the clock. The article fairly notes the administration's counter-position (that the ICA permits this) and the 2025 $4.9 billion foreign-aid precedent where the Supreme Court, 6-3, lifted a lower-court order in a preliminary ruling without deciding pocket-rescission legality broadly. No Snopes, PolitiFact, FactCheck.org, Reuters, or AP Fact Check rating of this specific claim was found. Every checkable element of the story's central claim matches primary and wire reporting — verdict: accurate.",
+  "sources": [
+   {
+    "name": "Bloomberg Government",
+    "url": "https://news.bgov.com/bloomberg-government-news/trump-to-cut-1-billion-in-spending-with-recissions-package"
+   },
+   {
+    "name": "U.S. Government Accountability Office WatchBlog (primary source)",
+    "url": "https://www.gao.gov/blog/what-pocket-rescission-and-it-legal"
+   }
+  ],
+  "id": "T32",
+  "order": 32
+ },
+ {
+  "outlet": "Fierce Healthcare",
+  "headline": "CMS projects MA premiums to decline by 16% in 2027",
+  "article_url": "https://www.fiercehealthcare.com/payers/cms-projects-medicare-advantage-premiums-decline-16-2027",
+  "published": "2026-09-28",
+  "trending_context": "Health-outlet coverage September 28 of an official agency projection.",
+  "trending_claim": "CMS announced on Sept. 28 that it projects weighted Medicare Advantage premiums to fall more than 16% in 2027 ($14.37 to $12.00/month) and MA prescription-drug premiums to drop 38% ($11.32 to $7), per an announcement by Administrator Mehmet Oz.",
+  "verdict": "accurate",
+  "rating_explained": "Fierce Healthcare reported on Sept. 28 that CMS projects weighted MA premiums to fall by more than 16% in 2027 ($14.37 to $12) and MA prescription-drug premiums to drop 38%, attributed to Administrator Mehmet Oz. The primary source — the CMS press release issued that same day — states verbatim: 'The weighted average monthly premium across all MA plans... is projected to decrease from $14.37 in 2026 to $12.00 in 2027, a decline of 16.5%,' and 'for MA plans that include prescription drug coverage, after application of MA rebates, the average monthly Part D total premium is projected to decrease from $11.32 in 2026 to $7 in 2027, a decrease of $4.32 or 38%,' with a direct quote from Dr. Mehmet Oz. Independent corroboration comes from Becker's Payer Issues, which reported the identical figures ($14.37 to $12, down 16.5%; $11.32 to $7, down 38%) from the same CMS release. Every number in the outlet's claim matches the agency's official figures exactly, so the verdict is accurate.",
+  "sources": [
+   {
+    "name": "CMS press release: Medicare Advantage and Medicare Prescription Drug Programs Expected to Remain Stable in 2027",
+    "url": "https://www.cms.gov/newsroom/press-releases/medicare-advantage-medicare-prescription-drug-programs-expected-remain-stable-2027"
+   },
+   {
+    "name": "Becker's Payer Issues: CMS projects lower Medicare Advantage premiums in 2027",
+    "url": "https://www.beckerspayer.com/payer/medicare-advantage/cms-projects-lower-medicare-advantage-premiums-flat-enrollment-for-2027/"
+   }
+  ],
+  "id": "T33",
+  "order": 33
+ },
+ {
+  "outlet": "NPR",
+  "headline": "Congress allocated $1.3 billion that the trump administration hasn't spent",
+  "article_url": "https://www.wcbe.org/2026-09-28/congress-allocated-1-3-billion-that-the-trump-administration-hasnt-spent",
+  "published": "2026-09-28",
+  "trending_context": "NPR segment published September 28, tying into the pocket-rescission spending fight.",
+  "trending_claim": "About $1.3 billion in congressionally allocated global-health funding (HIV, malaria, maternal/child health) remained unspent days before its Sept. 30 expiry, and GOP Sen. Susan Collins wrote to senior administration officials urging them to obligate it before the deadline.",
+  "verdict": "accurate",
+  "rating_explained": "NPR's Sept. 28 segment reported that roughly $1.3 billion in global-health funds Congress appropriated had not been spent and would expire Sept. 30, and that Sen. Susan Collins had written senior officials urging them to spend it as intended. The primary source — Collins's letter, posted Sept. 24, 2026 on the official Senate Appropriations Committee site and addressed to Secretary Rubio, OMB Director Vought, and USAID's Eric Ueland — states verbatim: 'I understand that approximately $1.3 billion of remaining FY25 GHP funding will expire on September 30th unless obligated.' An independent check comes from CIDRAP, which reported an analysis by Partners in Health finding OMB was withholding $1.35 billion in bilateral funding approved by Congress for TB, malaria, HIV, and maternal/child health programs, set to expire Sept. 30 — matching NPR's ~$1.3B figure and its description of the intended purposes. The Collins letter itself confirms both the dollar amount and the urgency of the Sept. 30 deadline, and NPR disclosed it had sought comment from the State Department and White House. The claim is verified by a primary document plus independent reporting, so the verdict is accurate.",
+  "sources": [
+   {
+    "name": "Senate Committee on Appropriations: Sen. Collins Urges Administration to Spend Global Health Programs Funding (letter dated 09.24.26)",
+    "url": "https://www.appropriations.senate.gov/news/majority/sen-collins-urges-administration-to-spend-global-health-programs-funding"
+   },
+   {
+    "name": "CIDRAP: Advocates, lawmakers call for release of congressionally approved global health funds",
+    "url": "https://www.cidrap.umn.edu/hivaids/advocates-lawmakers-call-release-congressionally-approved-global-health-funds"
+   }
+  ],
+  "id": "T34",
+  "order": 34
+ },
+ {
+  "outlet": "The Pavlovic Today",
+  "headline": "Trump Says Oil Prices Will ‘Come Plummeting Down’ as He Touts U.S. Economy",
+  "article_url": "https://thepavlovictoday.com/trump-says-oil-prices-will-come-plummeting-down-as-he-touts-u-s-economy/",
+  "published": "2026-09-28",
+  "trending_context": "Direct quote transcript from the September 27 Marine One gaggle; the Biden-era price comparison is falsifiable with AAA data.",
+  "trending_claim": "The article accurately quotes Trump's Sept 27 Marine One gaggle — oil will 'come plummeting down,' 'oil is less expensive now than it was under the Biden administration,' and a 'record amount' of oil moved through Hormuz 'last night' — and implicitly presents these against checkable data: the Biden-era comparison is cleanly falsifiable with AAA/EIA numbers, while the record-Hormuz boast is reported only as Trump's own assertion.",
+  "verdict": "accurate",
+  "rating_explained": "The Pavlovic Today's central claim is its direct, attributed reporting of Trump's Sept 27 Marine One gaggle quotes — that oil will 'come plummeting down,' that 'oil is less expensive now than it was under the Biden administration,' and that 'last night, we took a record amount of oil out of the Hormuz Strait' — placed against checkable AAA and EIA data. The quotes are verified verbatim: the ANI wire report of the same gaggle carries identical wording, confirming the outlet quoted him faithfully. The comparison data falsifies Trump's blanket claim: AAA put the national average at $4.48/gal on Sept 24 (highest ever for this time of year), versus $2.98 on Feb 28 before the war and $3.1634 a year earlier per AAA releases; EIA annual averages put WTI at $68.13 (2021), $94.90 (2022), $77.58 (2023), $76.63 (2024) against $92.41 on Sept 27 — so 'less expensive than under Biden' holds only versus the 2022 invasion-spike year, not as a blanket statement. The record-Hormuz claim is reported only as a Trump assertion (verified as a quote), with CENTCOM's Sept 19 announcement of over 1 billion barrels facilitated 'in recent months' offering context but no independent confirmation of a single-night record. Because the outlet's own reporting — the quotes and the data juxtaposition — is accurate and the Biden comparison is cleanly falsified by the named datasets, the verdict is accurate. A targeted search found no PolitiFact, Snopes, or FactCheck.org rating of this specific Sept 27 claim.",
+  "sources": [
+   {
+    "name": "ANI via Desi Talk Chicago",
+    "url": "https://desitalkchicago.com/oil-will-come-dropping-down-as-soon-as-iran-gives-up-trump-says-war-will-be-over-soon/"
+   },
+   {
+    "name": "Truth Media (Epoch Times)",
+    "url": "https://www.truthmedia.app/trump-says-record-amount-of-oil-transported-through-hormuz-strait/"
+   },
+   {
+    "name": "AAA Newsroom",
+    "url": "https://newsroom.aaa.com/2026/09/national-average-climbs-nearly-5-cents-since-last-week/"
+   },
+   {
+    "name": "AAA Oregon/Idaho",
+    "url": "https://info.oregon.aaa.com/gas-prices-surge-national-average-jumps-31-cents-in-one-week-while-oregon-has-one-of-the-smaller-increases-in-the-country-at-19-cents/"
+   }
+  ],
+  "id": "T35",
+  "order": 35
+ },
+ {
+  "outlet": "Fast Company",
+  "headline": "Trump rolls back a major Biden-era car rule. Here’s how it could affect your next vehicle",
+  "article_url": "https://www.fastcompany.com/91614177/trump-rolls-back-a-major-biden-era-car-rule-heres-how-it-could-affect-your-next-vehicle",
+  "published": "2026-09-28",
+  "trending_context": "Mainstream-outlet version of the September 29 CAFE cluster (NYT, NPR, ABC, Detroit Free Press).",
+  "trending_claim": "Fast Company reports DOT finalized NHTSA's CAFE rollback on Sept 28, cutting the 2031 fleet target from 50.4 to 34.9 mpg, with Secretary Duffy estimating $1,300 less per new vehicle; Trump called the Biden rule a 'ridiculous EV mandate' he 'terminated,' though no federal law ever mandated automakers produce EVs.",
+  "verdict": "accurate",
+  "rating_explained": "Fast Company asserts DOT finalized NHTSA's CAFE rewrite on Sept 28 cutting the 2031 fleet target from 50.4 to 34.9 mpg, that Secretary Duffy estimates new cars will cost $1,300 less, and that Trump's 'ridiculous EV mandate' framing is wrong because no federal law ever mandated EV production. All three are confirmed by named outlets: NPR reports the rules were finalized Monday, requiring roughly 1%-per-year efficiency gains to 34.9 mpg by model year 2031 versus Biden's 2%/yr to 50.4, with administration estimates of about $1,300 off sticker prices, and quotes Duffy's 'ended the illegal mandate' statement; the Detroit Free Press confirms the 32.3-mpg (2027) to 34.9-mpg (2031) targets, Duffy's $1,300 figure, and Trump's Sept 26 Truth Social post touting lower prices. On the 'mandate' point, the Free Press notes Biden's June 2024 rule plus EPA greenhouse-gas standards would have 'virtually required' two-thirds EVs by 2032 — but Congress stripped noncompliance penalties and EPA reversed the rationale for regulating GHGs, so automakers faced fines rather than a production mandate, and NPR notes the penalty was dropped in July 2025, effectively defanging the old standards. Because every checkable element — the finalized targets, the $1,300 estimate (consistent with NHTSA's $1,290 per-vehicle technology-cost figure), Duffy's quote, Trump's post, and the absence of a statutory EV-production mandate — is directly corroborated, the story is accurate.",
+  "sources": [
+   {
+    "name": "NPR via WUTC",
+    "url": "https://www.wutc.org/2026-09-28/the-trump-administration-weakens-fuel-efficiency-standards-for-new-cars"
+   },
+   {
+    "name": "Detroit Free Press",
+    "url": "https://www.freep.com/story/money/cars/2026/09/28/trump-new-mpg-standards-us-cars-trucks/91984306007/"
+   }
+  ],
+  "id": "T36",
+  "order": 36
+ },
+ {
+  "outlet": "Reuters",
+  "headline": "CNN, MS NOW, Politico ask judge to extend block on White House ban",
+  "article_url": "https://www.reuters.com/legal/government/cnn-ms-now-politico-ask-judge-extend-block-white-house-ban-2026-09-29/",
+  "published": "2026-09-29",
+  "trending_context": "Trump announced the ban for alleged \"FAKE NEWS\" in a Truth Social post; the press-pool fight topped trending panels on September 29.",
+  "trending_claim": "On Monday, September 28, 2026, CNN, MS NOW and Politico asked a federal judge to grant a preliminary injunction extending the block on Trump's announced ban of their reporters from the White House press pool.",
+  "verdict": "accurate",
+  "rating_explained": "The Reuters story asserts the three outlets asked a federal judge late Monday for a preliminary injunction \"preserving their White House access\" while they fight Trump's move to ban them over coverage he dislikes. CNN independently reports the outlets \"asked a federal judge late Monday to extend his order temporarily restoring their access,\" describing the new filing and noting U.S. District Judge Tim Kelly's prior temporary restraining order, which expires October 8. The Reuters wire, republished verbatim by WIXX, confirms the Monday request for a preliminary injunction \"blocking Trump's bans until there is a final ruling,\" Judge Timothy Kelly's earlier 14-day TRO, the September 18 Truth Social post announcing the ban over \"FAKE NEWS,\" and the September 21 lawsuit alleging First Amendment viewpoint discrimination. The filing, the relief sought, and the background are confirmed by two independent newsroom accounts. Verdict: accurate.",
+  "sources": [
+   {
+    "name": "Reuters wire (via WIXX)",
+    "url": "https://wixx.com/2026/09/28/cnn-ms-now-politico-ask-judge-to-extend-block-on-white-house-ban/"
+   },
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/09/28/politics/cnn-ms-now-politico-ask-judge-stop-white-house-ban?cid=external-feeds_iluminar_meta"
+   }
+  ],
+  "id": "T37",
+  "order": 37
+ },
+ {
+  "outlet": "MeidasTouch",
+  "headline": "Kash Patel's FBI Ousts Counterterror Chiefs, Then Loses Its No. 2",
+  "article_url": "https://meidasnews.com/news/kash-patels-fbi-ousts-counterterror-chiefs-then-loses-its-no-2",
+  "published": "2026-09-29",
+  "trending_context": "Heavy Google News discussion on September 29; same-day podcast and video coverage.",
+  "trending_claim": "Kash Patel's FBI quietly reassigned two senior Washington counterterrorism officials, Michael Burgwald and Courtland Rae, and co-deputy director Andrew Bailey announced his departure effective October 2.",
+  "verdict": "accurate",
+  "rating_explained": "CNN reported on September 26, 2026 that the FBI removed counterterrorism leaders Michael Burgwald and Courtland Rae from their Washington field office roles and reassigned them, with Washington chief Darren Cox confirming the personnel actions while denying Patel personally ordered them. The Washington Examiner confirmed on September 28 that FBI co-deputy director Andrew Bailey is departing effective October 2, citing FBI spokesperson Ben Williamson and Bailey's own statement. These two named-source reports directly corroborate the article's two factual pillars — the reassignments and the October 2 departure date. One nuance: the evidence supports describing these as actions by Patel's FBI or the bureau, not the stronger claim that Patel personally ordered the reassignments. Because the core personnel facts are confirmed by named officials, the verdict is accurate.",
+  "sources": [
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/09/26/politics/fbi-agents-katie-miller-stephen-miller?cid=external-feeds_iluminar_meta"
+   },
+   {
+    "name": "Washington Examiner",
+    "url": "https://www.washingtonexaminer.com/news/justice/4744980/fbi-co-deputy-director-andrew-bailey-resigns-kash-patel/"
+   }
+  ],
+  "id": "T38",
+  "order": 38
+ },
+ {
+  "outlet": "All Rise News",
+  "headline": "Trump can't hold terror funds 'hostage' to coerce election reforms",
+  "article_url": "https://www.allrisenews.com/p/trump-terror-funds-hostage-election-reforms",
+  "published": "2026-09-29",
+  "trending_context": "Covered by AP, Reuters, Politico and the Washington Examiner; the ruling issued September 28.",
+  "trending_claim": "Judge Amir Ali ruled September 28 that the Trump administration cannot withhold 20% of roughly $1.1 billion in counterterrorism grants from states that refuse to adopt election policies like hand-marked ballots, 5% manual audits, and SAVE citizenship checks.",
+  "verdict": "accurate",
+  "rating_explained": "Reuters reported on September 28, 2026 that U.S. District Judge Amir Ali blocked the administration from conditioning counterterrorism grants on election-administration changes, writing that 'Congress did not authorize the grant program to be used for the sort of election administration reforms FEMA demands here.' Reuters confirms the grant programs total about $1.1 billion and that DHS planned to withhold 20% until governments adopted measures including hand-marked paper ballots, manual audits of at least 5% of ballots, and comparing voter rolls to a DHS citizenship database. The Washington Examiner independently confirms Ali vacated the five election-administration conditions and the 20% holdback, listing the same specific requirements including SAVE verification and ballot-voter reconciliation. Dates, figures, judge, and conditions all align across named outlets, so the verdict is accurate.",
+  "sources": [
+   {
+    "name": "Reuters (via 102.7 Super Hits)",
+    "url": "https://1027superhits.com/2026/09/28/judge-blocks-trump-from-tying-anti-terrorism-grants-to-election-changes/"
+   },
+   {
+    "name": "Washington Examiner",
+    "url": "https://www.washingtonexaminer.com/news/justice/4746256/judge-trump-counterterrorism-funds-state-elections/"
+   }
+  ],
+  "id": "T39",
+  "order": 39
+ },
+ {
+  "outlet": "IANS",
+  "headline": "Trump says Canada will seek tariff deal in weeks",
+  "article_url": "https://ianslive.in/trump-says-canada-will-seek-tariff-deal-in-weeks--20260929060003",
+  "published": "2026-09-29",
+  "trending_context": "The 'three or four weeks' prediction and 400% tariff claim drove wide coverage; CTV and the Globe and Mail covered Canadian fallout.",
+  "trending_claim": "On Sept 28, 2026 Trump told White House reporters he expects Canada to come back to the table within 'three or four weeks' to strike a trade deal, just as US import bans on Canadian alcohol, dairy products and motorcycles took effect Sept 29; he also asserted Canadian tariffs on some US farm products reached 400%, and the White House grounded the bans in Section 338 of the Tariff Act of 1930.",
+  "verdict": "accurate",
+  "rating_explained": "IANS's central claims all check out. CNN's Sept 29 report quotes Trump's Sept 28 remarks verbatim — 'Over the next three or four weeks, they're going to come to us and they're going to say, We're going to get rid of all the tariffs' — and CTV News and Newsmax carry the same quotes. CNN also confirms the alcohol ban 'kicked in on Tuesday' and states Trump is 'relying on Section 338 of the Smoot-Hawley Tariff Act of 1930' to impose it, matching the IANS article's Section 338 account. Mondaq independently confirms five Sept 8 White House proclamations under Section 338, with three outright import bans (alcoholic beverages, dairy, motorcycles) effective 12:01 a.m. Sept 29. The 400% farm-tariff figure itself is not in Canada's published tariff schedule — FactCheck.org records maximum over-quota rates of 298.5% for butter, 245.5% for cheese and 241% for milk, none ever paid since quotas aren't filled — but IANS never endorses the number; it explicitly frames it as Trump's assertion and notes no breakdown was provided. As a report of what Trump said and what the White House did, the article is accurate.",
+  "sources": [
+   {
+    "name": "CNN — 'Trump just banned Canadian booze — but there's a big catch' (Sept 29, 2026)",
+    "url": "https://www.cnn.com/2026/09/29/economy/trump-just-banned-canadian-booze-heres-what-you-need-to-know?cid=external-feeds_iluminar_meta"
+   },
+   {
+    "name": "Mondaq — 'From Duties To Import Bans: The Canada–U.S. Tariff War After The Collapse Of Negotiations'",
+    "url": "https://www.mondaq.com/canada/export-controls-trade-investment-sanctions/1845160/from-duties-to-import-bans-the-canadaus-tariff-war-after-the-collapse-of-negotiations"
+   },
+   {
+    "name": "FactCheck.org — 'Trump's Misleading Claim on Canadian Dairy Tariffs'",
+    "url": "https://www.factcheck.org/2025/04/trumps-misleading-claim-on-canadian-dairy-tariffs/"
+   }
+  ],
+  "id": "T40",
+  "order": 40
+ }
+]
